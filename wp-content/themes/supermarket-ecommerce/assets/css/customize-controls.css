@@ -1,0 +1,61 @@
+
+
+li#customize-control-supermarket_ecommerce_logo_top_padding,
+li#customize-control-supermarket_ecommerce_logo_bottom_padding,
+li#customize-control-supermarket_ecommerce_logo_left_padding,
+li#customize-control-supermarket_ecommerce_logo_right_padding{
+    clear: none;
+    width: 22%;
+    margin-right: 10px;
+}
+li#customize-control-supermarket_ecommerce_logo_right_padding{
+    margin: 0;
+}
+input#_customize-input-supermarket_ecommerce_logo_padding{
+    display: none;
+}
+li#customize-control-supermarket_ecommerce_logo_padding{
+    margin-bottom: 0;
+}
+span#_customize-description-supermarket_ecommerce_logo_top_padding,
+span#_customize-description-supermarket_ecommerce_logo_bottom_padding,
+span#_customize-description-supermarket_ecommerce_logo_left_padding,
+span#_customize-description-supermarket_ecommerce_logo_right_padding{
+    font-weight: 600;
+}#customize-controls .control-section-supermarket-ecommerce .accordion-section-title:hover,
+#customize-controls .control-section-supermarket-ecommerce .accordion-section-title:focus {
+	background-color: #fff;
+}
+.control-section-supermarket-ecommerce .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+.rtl .control-section-supermarket-ecommerce .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#customize-control-supermarket_ecommerce_logo_top_padding,
+li#customize-control-supermarket_ecommerce_logo_bottom_padding,
+li#customize-control-supermarket_ecommerce_logo_left_padding,
+li#customize-control-supermarket_ecommerce_logo_right_padding{
+    clear: none;
+    width: 22%;
+    margin-right: 10px;
+}
+li#customize-control-supermarket_ecommerce_logo_right_padding{
+    margin: 0;
+}
+input#_customize-input-supermarket_ecommerce_logo_padding{
+    display: none;
+}
+li#customize-control-supermarket_ecommerce_logo_padding{
+    margin-bottom: 0;
+}
+span#_customize-description-supermarket_ecommerce_logo_top_padding,
+span#_customize-description-supermarket_ecommerce_logo_bottom_padding,
+span#_customize-description-supermarket_ecommerce_logo_left_padding,
+span#_customize-description-supermarket_ecommerce_logo_right_padding{
+    font-weight: 600;
+}

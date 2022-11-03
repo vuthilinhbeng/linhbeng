@@ -1,0 +1,1342 @@
+# <!=Copyright (C) 2019 VW Themes
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Sirat 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-16 11:58+0530\n"
+"PO-Revision-Date: 2019-08-16 16:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: sirat\n"
+"X-Poedit-SearchPath-1: Documents/sirat 2/languages\n"
+"X-Poedit-SearchPath-2: sirat/languages\n"
+"X-Poedit-SearchPathExcluded-0: Documents/sirat 2/languages\n"
+"X-Poedit-SearchPathExcluded-1: sirat/languages\n"
+
+#: 404.php:12
+#: inc/customizer.php:534
+#: inc/customizer.php:541
+msgid "404 Not Found"
+msgstr "404 غير موجود"
+
+#: sirat/404.php:13
+#: inc/customizer.php:548
+#: inc/customizer.php:555
+msgid "Looks like you have taken a wrong turn, Dont worry, it happens to the best of us."
+msgstr "يبدو أنك قد اتخذت منعطفًا خاطئًا ، لا تقلق ، فهذا يحدث لأفضل منا"
+
+#: no-result.php:17
+msgid "Dont worry&hellip; it happens to the best of us."
+msgstr "لا تقلق & hellip؛ يحدث لأفضل منا."
+
+#: 404.php:16 
+#: no-results.php:19
+msgid "Home link"
+msgstr "رابط المنزل"
+
+#: 404.php:16
+#: inc/customizer.php:562
+#: inc/customizer.php:568
+msgid "Go Back"
+msgstr "عد"
+
+#: archive.php:45 
+#: archive.php:77
+#: archive.php:108 
+#: archive.php:139
+#: archive.php:172 
+#: archive.php:207
+#: archive.php:239 
+#: image.php:38
+#: image.php:71 
+#: image.php:103
+#: image.php:135 
+#: image.php:169
+#: image.php:204 
+#: image.php:236
+#: index.php:43 
+#: index.php:76
+#: index.php:108 
+#: index.php:140
+#: index.php:174 
+#: index.php:209
+#: index.php:241 
+#: search.php:40
+#: search.php:72 
+#: search.php:103
+#: search.php:134
+#: search.php:167
+#: search.php:202 
+#: search.php:234
+#: single.php:38 
+#: single.php:71
+#: single.php:103 
+#: single.php:135
+#: single.php:169 
+#: single.php:204
+#: single.php:236
+msgid "Previous page"
+msgstr "الصفحة السابقة"
+
+#: archive.php:46 
+#: archive.php:78
+#: archive.php:109 
+#: archive.php:140
+#: archive.php:173 
+#: archive.php:208
+#: archive.php:240 
+#: image.php:39
+#: image.php:72 
+#: image.php:104
+#: image.php:136 
+#: image.php:170
+#: image.php:205 
+#: image.php:237
+#: index.php:44 
+#: index.php:77
+#: index.php:109
+#: index.php:141
+#: index.php:175 
+#: index.php:210
+#: index.php:242 
+#: search.php:41
+#: search.php:73 
+#: search.php:104
+#: search.php:135 
+#: search.php:168
+#: search.php:203 
+#: search.php:235
+#: single.php:39 
+#: single.php:72
+#: single.php:104 
+#: single.php:136
+#: single.php:170 
+#: single.php:205
+#: single.php:237
+msgid "Next page"
+msgstr "الصفحة التالية"
+
+#: archive.php:47 
+#: archive.php:79
+#: archive.php:110 
+#: archive.php:141
+#: archive.php:174 
+#: archive.php:209
+#: archive.php:241
+#: image.php:40
+#: image.php:73 
+#: image.php:105
+#: image.php:137 
+#: image.php:171
+#: image.php:206 
+#: image.php:238
+#: index.php:45 
+#: index.php:78
+#: index.php:110 
+#: index.php:142
+#: index.php:176 
+#: index.php:211
+#: index.php:243 
+#: search.php:42
+#: search.php:74
+#: search.php:105
+#: search.php:136 
+#: search.php:169
+#: search.php:204 
+#: search.php:236
+#: single.php:40 
+#: single.php:73
+#: single.php:105 
+#: single.php:137
+#: single.php:171 
+#: single.php:206
+#: single.php:238
+msgid "Page"
+msgstr "صفحة"
+
+#: comments.php:30
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: footer.php:58
+msgid "&copy; Copyright 2019 -"
+msgstr "&نسخ؛ حقوق الطبع والنشر 2019 -"
+
+#: footer.php:63 
+#: footer.php:65
+#: footer.php:67
+msgid "Scroll Up"
+msgstr "انتقل إلى أعلى"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "القائمة الأساسية"
+
+#: functions.php:59
+msgid "Blog Sidebar"
+msgstr "مدونة الشريط الجانبي"
+
+#: functions.php:60
+msgid "Appears on blog page sidebar"
+msgstr "يظهر على الشريط الجانبي لصفحة المدونة"
+
+#: functions.php:69
+msgid "Page Sidebar"
+msgstr "الشريط الجانبي للصفحة"
+
+#: functions.php:70 
+#: functions.php:80
+msgid "Appears on page sidebar"
+msgstr "يظهر على الشريط الجانبي للصفحة"
+
+#: functions.php:79
+msgid "Sidebar 3"
+msgstr "الشريط الجانبي 3"
+
+#: functions.php:89
+msgid "Footer Navigation 1"
+msgstr "تذييل التنقل 1"
+
+#: functions.php:90
+msgid "Appears on footer 1"
+msgstr "يظهر على التذييل 1"
+
+#: functions.php:99
+msgid "Footer Navigation 2"
+msgstr "تذييل التنقل 2"
+
+#: functions.php:100
+msgid "Appears on footer 2"
+msgstr "يظهر على التذييل 2"
+
+#: functions.php:109
+msgid "Footer Navigation 3"
+msgstr "تذييل التنقل 3"
+
+#: functions.php:110
+msgid "Appears on footer 3"
+msgstr "يظهر على التذييل 3"
+
+#: functions.php:119
+msgid "Footer Navigation 4"
+msgstr "تذييل التنقل 4"
+
+#: functions.php:120
+msgid "Appears on footer 4"
+msgstr "يظهر على التذييل 4"
+
+#: functions.php:129
+msgid "Top Bar Social Media"
+msgstr "توب بار وسائل التواصل الاجتماعي"
+
+#: functions.php:130
+msgid "Appears on top bar"
+msgstr "يظهر في الشريط العلوي"
+
+msgid "Shop Page Sidebar"
+msgstr "تسوق صفحة الشريط الجانبي"
+
+#: functions.php:140
+msgid "Appears on shop page"
+msgstr "يظهر على صفحة المتجر"
+
+#: functions.php:149
+#: inc/customizer.php:105
+msgid "Single Product Sidebar"
+msgstr "الشريط الجانبي للمنتج الواحد"
+
+#: functions.php:329
+msgid "Sirat WordPress Theme"
+msgstr "سيرات وورد الموضوع"
+
+#: header.php:17
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "تخطى الى المحتوى"
+
+#: inc/customizer.php:28
+msgid "VW Settings"
+msgstr "إعدادات VW"
+
+#: inc/customizer.php:33
+msgid "General Settings"
+msgstr "الاعدادات العامة"
+
+#: inc/customizer.php:38
+msgid "Full Width"
+msgstr "العرض الكامل"
+
+#: inc/customizer.php:43
+msgid "Width Layouts"
+msgstr "تخطيطات العرض"
+
+#: inc/customizer.php:44
+msgid "Here you can change the width layout of Website."
+msgstr "هنا يمكنك تغيير تخطيط عرض موقع الويب."
+
+#: inc/customizer.php:53 inc/customizer.php:63
+#: inc/customizer.php:82
+msgid "Right Sidebar"
+msgstr "الشريط الجانبي الأيمن"
+
+#: inc/customizer.php:58
+msgid "Post Sidebar Layout"
+msgstr "نشر الشريط الجانبي"
+
+#: inc/customizer.php:59
+msgid "Here you can change the sidebar layout for posts. "
+msgstr "هنا يمكنك تغيير تخطيط الشريط الجانبي للوظائف."
+
+#: inc/customizer.php:62 inc/customizer.php:81
+msgid "Left Sidebar"
+msgstr "الشريط الجانبي الأيسر"
+
+#: inc/customizer.php:64 inc/customizer.php:72
+#: inc/customizer.php:83
+msgid "One Column"
+msgstr "عمود واحد"
+
+#: inc/customizer.php:65
+msgid "Three Columns"
+msgstr "ثلاثة أعمدة"
+
+#: inc/customizer.php:66
+msgid "Four Columns"
+msgstr "أربعة أعمدة"
+
+#: inc/customizer.php:67
+msgid "Grid Layout"
+msgstr "تخطيط الشبكة"
+
+#: inc/customizer.php:77
+msgid "Page Sidebar Layout"
+msgstr "تخطيط الشريط الجانبي للصفحة"
+
+#: inc/customizer.php:78
+msgid "Here you can change the sidebar layout for pages. "
+msgstr "هنا يمكنك تغيير تخطيط الشريط الجانبي للصفحات."
+
+#: inc/customizer.php:116
+msgid "Pre-Loader"
+msgstr "ما قبل محمل"
+
+#: inc/customizer.php:121
+#: inc/customizer.php:129
+msgid "Two Way"
+msgstr "اتجاهين"
+
+#: inc/customizer.php:126
+msgid "Pre-Loader Type"
+msgstr "قبل محمل نوع"
+
+#: inc/customizer.php:130
+msgid "Dots"
+msgstr "النقاط"
+
+#: inc/customizer.php:131
+msgid "Rotate"
+msgstr "استدارة"
+
+#: inc/customizer.php:137
+msgid "Top Bar Settings"
+msgstr "إعدادات شريط العلوي"
+
+#: inc/customizer.php:149
+msgid "Show / Hide Topbar"
+msgstr "إظهار / إخفاء Topbar"
+
+#: inc/customizer.php:159
+msgid "Show / Hide Search"
+msgstr "إظهار / إخفاء البحث"
+
+#: inc/customizer.php:170
+msgid "Sticky Header"
+msgstr "رأس مثبت"
+
+#: inc/customizer.php:179
+msgid "Add Phone Number"
+msgstr "أضف رقم الهاتف"
+
+#: inc/customizer.php:181
+msgid "+00 987 654 1230"
+msgstr "+00 987 654 1230"
+
+#: inc/customizer.php:192
+msgid "Add Email Address"
+msgstr "إضافة عنوان البريد الإلكتروني"
+
+#: inc/customizer.php:194
+msgid "example@gmail.com"
+msgstr "example@gmail.com"
+
+#: inc/customizer.php:202
+#: inc/customizer.php:176
+msgid "Left"
+msgstr "اليسار"
+
+#: inc/customizer.php:207
+msgid "Header Layouts"
+msgstr "تخطيطات الرأس"
+
+#: inc/customizer.php:217
+msgid "Slider Settings"
+msgstr "إعدادات شريط التمرير"
+
+#: inc/customizer.php:227
+msgid "Show / Hide Slider"
+msgstr "إظهار / إخفاء شريط التمرير"
+
+#: inc/customizer.php:238
+msgid "Slider Background Option"
+msgstr "خيار خلفية شريط التمرير"
+
+#: inc/customizer.php:239
+msgid "Please refresh the page after selecting background option"
+msgstr "يرجى تحديث الصفحة بعد تحديد خيار الخلفية"
+
+#: inc/customizer.php:232
+#: inc/customizer.php:242
+msgid "Slideshow"
+msgstr "عرض الشرائح"
+
+#: inc/customizer.php:243
+msgid "Image"
+msgstr "صورة"
+
+#: inc/customizer.php:244
+msgid "Gradient"
+msgstr "الانحدار"
+
+#: inc/customizer.php:260
+#: inc/customizer.php:277
+msgid "Select Slider Page"
+msgstr "حدد منزلق الصفحة"
+
+#: inc/customizer.php:261
+#: inc/customizer.php:278
+msgid "Slider image size (1500 x 800)"
+msgstr "حجم شريط التمرير (1500 × 800)"
+
+#: inc/customizer.php:316
+msgid "Select post"
+msgstr "اختيار وظيفة"
+
+#: inc/customizer.php:328
+msgid "Slider Content Layouts"
+msgstr "شريط التمرير تخطيطات المحتوى"
+
+#: inc/customizer.php:345
+msgid "Slider Excerpt length"
+msgstr "شريط التمرير مقتطف الطول"
+
+#: inc/customizer.php:363
+msgid "Slider Image Opacity"
+msgstr "شريط التمرير عتامة الصورة"
+
+#: inc/customizer.php:383
+msgid "Our Services Settings"
+msgstr "إعدادات خدماتنا"
+
+#: inc/customizer.php:393
+msgid "Add Section Title"
+msgstr "إضافة عنوان القسم"
+
+#: inc/customizer.php:395
+msgid "AWESOME SERVICES"
+msgstr "خدمات رهيبة"
+
+#: inc/customizer.php:406
+msgid "Add Section Text"
+msgstr "إضافة نص القسم"
+
+#: inc/customizer.php:408
+msgid "Lorem ipsum is dummy text"
+msgstr "أبجد هوز هو دمية النص"
+
+#: inc/customizer.php:433
+msgid "Select Category to display Services"
+msgstr "اختر الفئة لعرض الخدمات"
+
+#: inc/customizer.php:434
+msgid "Image Size (50 x 50)"
+msgstr "حجم الصورة (50 × 50)"
+
+#: inc/customizer.php:443
+msgid "Select About Page"
+msgstr "اختر حول الصفحة"
+
+#: inc/customizer.php:444
+msgid "Image Size (280 x 280)"
+msgstr "حجم الصورة (280 × 280)"
+
+#: inc/customizer.php:457
+msgid "Services Excerpt length"
+msgstr "خدمات طول مقتطف"
+
+#: inc/customizer.php:470
+msgid "Blog Post Settings"
+msgstr "إعدادات نشر المدونة"
+
+#: inc/customizer.php:480
+msgid "Post Date"
+msgstr "تاريخ آخر"
+
+#: inc/customizer.php:490
+msgid "Author"
+msgstr "مؤلف"
+
+#: inc/customizer.php:500
+msgid "Comments"
+msgstr "تعليقات"
+
+#: inc/customizer.php:215
+msgid "Excerpt length"
+msgstr "طول مقتطف"
+
+#: inc/customizer.php:513
+msgid "Blog Layouts"
+msgstr "تخطيطات المدونة"
+
+#: inc/customizer.php:543
+#: inc/customizer.php:539
+msgid "Add Button Text"
+msgstr "إضافة نص الزر"
+
+#: inc/customizer.php:515
+msgid "404 Page Settings"
+msgstr "404 إعدادات الصفحة"
+
+#: inc/customizer.php:525
+msgid "Add Title"
+msgstr "أضف عنوانا"
+
+#: inc/customizer.php:539
+msgid "Add Text"
+msgstr "اضافة نص"
+
+#: inc/customizer.php:553
+msgid "Customize Home Page Settings"
+msgstr "تخصيص إعدادات الصفحة الرئيسية"
+
+#: inc/customizer.php:482
+msgid ""
+"First select static page in homepage setting for front page.Below given edit "
+"button is to customize Home Page. Just click on the edit option, add "
+"whatever elements you want to include in the homepage, save the changes and "
+"you are good to go."
+msgstr ""
+"أولاً ، حدد الصفحة الثابتة في إعداد الصفحة الرئيسية للصفحة الأمامية. زر "
+"التعديل المحدد أدناه هو تخصيص الصفحة الرئيسية. فقط انقر على خيار التعديل ، "
+"وأضف العناصر التي تريد تضمينها في الصفحة الرئيسية ، واحفظ التغييرات وأنت على "
+"ما يرام."
+
+#: inc/customizer.php:570
+#: template-parts/image-layout.php:33
+msgid "Edit"
+msgstr "تصحيح"
+
+#: inc/customizer.php:575
+msgid "Footer Settings"
+msgstr "إعدادات تذييل الصفحة"
+
+#: inc/customizer.php:584
+msgid "Copyright Text"
+msgstr "نص حقوق النشر"
+
+#: inc/customizer.php:586
+msgid "Copyright 2019, ....."
+msgstr "حقوق الطبع والنشر 2019 ، ....."
+
+#: inc/customizer.php:598
+msgid "Show / Hide Scroll To Top"
+msgstr "إظهار / إخفاء التمرير إلى الأعلى"
+
+#: inc/customizer.php:603
+msgid "Right"
+msgstr "حق"
+
+#: inc/customizer.php:608
+msgid "Scroll To Top"
+msgstr "انتقل إلى أعلى"
+
+#: inc/customizer.php:693
+msgid "SIRAT PRO"
+msgstr "سيرات برو"
+
+#: inc/customizer.php:694
+msgid "UPGRADE PRO"
+msgstr "ترقية للمحترفين"
+
+#: inc/logo/logo-resizer.php:19
+msgid "Logo Size"
+msgstr "حجم الشعار"
+
+#: inc/social-widgets/social-icon.php:12
+msgid "Social Icon"
+msgstr "أيقونة الاجتماعية"
+
+#: inc/social-widgets/social-icon.php:14
+msgid "Widget for Social icons section"
+msgstr "القطعة لقسم الرموز الاجتماعية"
+
+#: inc/social-widgets/social-icon.php:36
+msgid "Facebook"
+msgstr "فيس بوك"
+
+#: inc/social-widgets/social-icon.php:37
+msgid "Twitter"
+msgstr "تغريد"
+
+#: inc/social-widgets/social-icon.php:38
+msgid "Google"
+msgstr "جوجل"
+
+#: inc/social-widgets/social-icon.php:39
+msgid "Linkedin"
+msgstr "تابعني على"
+
+#: inc/social-widgets/social-icon.php:40
+msgid "Pinterest"
+msgstr "موقع Pinterest"
+
+#: inc/social-widgets/social-icon.php:41
+msgid "Tumblr"
+msgstr "نعرفكم"
+
+#: inc/social-widgets/social-icon.php:42
+msgid "Instagram"
+msgstr "إينستاجرام"
+
+#: inc/social-widgets/social-icon.php:43
+msgid "Youtube"
+msgstr "موقع YouTube"
+
+#: inc/social-widgets/social-icon.php:67
+msgid "Title:"
+msgstr "عنوان:"
+
+#: inc/social-widgets/social-icon.php:71
+msgid "Facebook:"
+msgstr "فيس بوك:"
+
+#: inc/social-widgets/social-icon.php:75
+msgid "Twitter:"
+msgstr "تغريد:"
+
+#: inc/social-widgets/social-icon.php:79
+msgid "Google+:"
+msgstr "في + Google:"
+
+#: inc/social-widgets/social-icon.php:83
+msgid "Linkedin:"
+msgstr "تابعني على:"
+
+#: inc/social-widgets/social-icon.php:87
+msgid "Instagram:"
+msgstr "إينستاجرام:"
+
+#: inc/social-widgets/social-icon.php:91
+msgid "Pinterest:"
+msgstr "موقع Pinterest:"
+
+#: inc/social-widgets/social-icon.php:95
+msgid "Tumblr:"
+msgstr "نعرفكم:"
+
+#: inc/social-widgets/social-icon.php:99
+msgid "Youtube:"
+msgstr "موقع YouTube:"
+
+#: inc/typography/ctypo.php:27
+msgid "Theme Typography"
+msgstr "موضوع الطباعة"
+
+#: inc/typography/ctypo.php:31
+msgid "Content Typography"
+msgstr "طباعة المحتوى"
+
+#: inc/typography/ctypo.php:36
+msgid "Headings Typography"
+msgstr "عناوين الطباعة"
+
+#: inc/typography/ctypo.php:41
+msgid "Global Typography"
+msgstr "الطباعة العالمية"
+
+#: inc/typography/ctypo.php:49
+msgid "It will change the complete theme color in one click."
+msgstr "سيغير لون السمة الكاملة بنقرة واحدة."
+
+#: inc/typography/ctypo.php:137
+msgid "Paragraph Color"
+msgstr "لون الفقرة"
+
+#: inc/typography/ctypo.php:138
+#: inc/typography/ctypo.php:144
+msgid "Select how you want your paragraphs to appear."
+msgstr "حدد كيف تريد أن تظهر فقراتك."
+
+#: inc/typography/ctypo.php:143
+msgid "Paragraph Typography"
+msgstr "فقرة الطباعة"
+
+#: inc/typography/ctypo.php:164
+msgid "Anchor Tag Color"
+msgstr "مرساة العلامة اللون"
+
+#: inc/typography/ctypo.php:165
+#: inc/typography/ctypo.php:171
+msgid "Select how you want your a tag to appear."
+msgstr "حدد كيف تريد أن تظهر علامة."
+
+#: inc/typography/ctypo.php:170
+msgid "Anchor Tag Typography"
+msgstr "مرساة العلامة الطباعة"
+
+#: inc/typography/ctypo.php:191
+msgid "Heading 1 Color"
+msgstr "عنوان 1 اللون"
+
+#: inc/typography/ctypo.php:192
+#: inc/typography/ctypo.php:198
+msgid "Select how heading 1 should appear."
+msgstr "حدد كيفية ظهور العنوان 1."
+
+#: inc/typography/ctypo.php:197
+msgid "Heading 1"
+msgstr "عنوان 1"
+
+#: inc/typography/ctypo.php:218
+msgid "Heading 2 Color"
+msgstr "عنوان 2 اللون"
+
+#: inc/typography/ctypo.php:219
+#: inc/typography/ctypo.php:225
+msgid "Select how heading 2 should appear."
+msgstr "حدد كيفية ظهور العنوان 2."
+
+#: inc/typography/ctypo.php:224
+msgid "Heading 2"
+msgstr "العنوان 2"
+
+#: inc/typography/ctypo.php:245
+msgid "Heading 3 Color"
+msgstr "عنوان 3 اللون"
+
+#: inc/typography/ctypo.php:246
+#: inc/typography/ctypo.php:252
+msgid "Select how heading 3 should appear."
+msgstr "حدد كيفية ظهور العنوان 3."
+
+#: inc/typography/ctypo.php:251
+msgid "Heading 3"
+msgstr "العنوان 3"
+
+#: inc/typography/ctypo.php:272
+msgid "Heading 4 Color"
+msgstr "عنوان 4 اللون"
+
+#: inc/typography/ctypo.php:273
+#: inc/typography/ctypo.php:279
+msgid "Select how heading 4 should appear."
+msgstr "حدد كيفية ظهور العنوان 4."
+
+#: inc/typography/ctypo.php:278
+msgid "Heading 4"
+msgstr "العنوان 4"
+
+#: inc/typography/ctypo.php:299
+msgid "Heading 5 Color"
+msgstr "عنوان 5 اللون"
+
+#: inc/typography/ctypo.php:300
+#: inc/typography/ctypo.php:306
+msgid "Select how heading 5 should appear."
+msgstr "حدد كيفية ظهور العنوان 5."
+
+#: inc/typography/ctypo.php:305
+msgid "Heading 5"
+msgstr "العنوان 5"
+
+#: inc/typography/ctypo.php:326
+msgid "Heading 6 Color"
+msgstr "عنوان 6 اللون"
+
+#: inc/typography/ctypo.php:327
+#: inc/typography/ctypo.php:333
+msgid "Select how heading 6 should appear."
+msgstr "حدد كيف يجب أن يظهر البند 6."
+
+#: inc/typography/ctypo.php:332
+msgid "Heading 6"
+msgstr "العنوان 6"
+
+#: inc/typography/customize/control-typography.php:48
+msgid "Font Color"
+msgstr "لون الخط"
+
+#: inc/typography/customize/control-typography.php:49
+msgid "Font Family"
+msgstr "خط العائلة"
+
+#: inc/typography/customize/control-typography.php:50
+msgid "Font Size"
+msgstr "حجم الخط"
+
+#: inc/typography/customize/control-typography.php:51
+msgid "Font Weight"
+msgstr "وزن الخط"
+
+#: inc/typography/customize/control-typography.php:52
+msgid "Font Style"
+msgstr "نمط الخط"
+
+#: inc/typography/customize/control-typography.php:53
+msgid "Line Height"
+msgstr "ارتفاع خط"
+
+#: inc/typography/customize/control-typography.php:54
+msgid "Letter Spacing"
+msgstr "تباعد الحروف"
+
+#: inc/typography/customize/control-typography.php:243
+msgid "No Fonts"
+msgstr "لا الخطوط"
+
+#: inc/typography/customize/control-typography.php:244
+msgid "Abril Fatface"
+msgstr "أبريل Fatface"
+
+#: inc/typography/customize/control-typography.php:245
+msgid "Acme"
+msgstr "ذروة"
+
+#: inc/typography/customize/control-typography.php:246
+msgid "Anton"
+msgstr "انطون"
+
+#: inc/typography/customize/control-typography.php:247
+msgid "Architects Daughter"
+msgstr "ابنة المهندسين المعماريين"
+
+#: inc/typography/customize/control-typography.php:248
+msgid "Arimo"
+msgstr "قضايا"
+
+#: inc/typography/customize/control-typography.php:249
+msgid "Arsenal"
+msgstr "ارسنال"
+
+#: inc/typography/customize/control-typography.php:250
+msgid "Arvo"
+msgstr "قيمة"
+
+#: inc/typography/customize/control-typography.php:251
+msgid "Alegreya"
+msgstr "Alegreya"
+
+#: inc/typography/customize/control-typography.php:252
+msgid "Alfa Slab One"
+msgstr "ألفا سلاب وان"
+
+#: inc/typography/customize/control-typography.php:253
+msgid "Averia Serif Libre"
+msgstr "انهيار ليبر الرقيق"
+
+#: inc/typography/customize/control-typography.php:254
+msgid "Bangers"
+msgstr "السجق"
+
+#: inc/typography/customize/control-typography.php:255
+msgid "Boogaloo"
+msgstr "Boogaloo"
+
+#: inc/typography/customize/control-typography.php:256
+msgid "Bad Script"
+msgstr "سيناريو سيء"
+
+#: inc/typography/customize/control-typography.php:257
+msgid "Bitter"
+msgstr "مرارة - مر"
+
+#: inc/typography/customize/control-typography.php:258
+msgid "Bree Serif"
+msgstr "بري سريف"
+
+#: inc/typography/customize/control-typography.php:259
+msgid "BenchNine"
+msgstr "بنكنن"
+
+#: inc/typography/customize/control-typography.php:260
+msgid "Cabin"
+msgstr "الطائرة"
+
+#: inc/typography/customize/control-typography.php:261
+msgid "Cardo"
+msgstr "كاردو"
+
+#: inc/typography/customize/control-typography.php:262
+msgid "Courgette"
+msgstr "الكوسة"
+
+#: inc/typography/customize/control-typography.php:263
+msgid "Cherry Swash"
+msgstr "الكرز سواش"
+
+#: inc/typography/customize/control-typography.php:264
+msgid "Cormorant Garamond"
+msgstr "الغاق Garamond"
+
+#: inc/typography/customize/control-typography.php:265
+msgid "Crimson Text"
+msgstr "نص قرمزي"
+
+#: inc/typography/customize/control-typography.php:266
+msgid "Cuprum"
+msgstr "كبروم"
+
+#: inc/typography/customize/control-typography.php:267
+msgid "Cookie"
+msgstr "بسكويت"
+
+#: inc/typography/customize/control-typography.php:268
+msgid "Chewy"
+msgstr "مطاطية"
+
+#: inc/typography/customize/control-typography.php:269
+msgid "Days One"
+msgstr "يوم واحد"
+
+#: inc/typography/customize/control-typography.php:270
+msgid "Dosis"
+msgstr "جرعة"
+
+#: inc/typography/customize/control-typography.php:271
+msgid "Droid Sans"
+msgstr "بلا الروبوت"
+
+#: inc/typography/customize/control-typography.php:272
+msgid "Economica"
+msgstr "اقتصادي"
+
+#: inc/typography/customize/control-typography.php:273
+msgid "Fredoka One"
+msgstr "فريدوكا وان"
+
+#: inc/typography/customize/control-typography.php:274
+msgid "Fjalla One"
+msgstr "النظر في واحد"
+
+#: inc/typography/customize/control-typography.php:275
+msgid "Francois One"
+msgstr "فرانسوا وان"
+
+#: inc/typography/customize/control-typography.php:276
+msgid "Frank Ruhl Libre"
+msgstr "فرانك روه ليبر"
+
+#: inc/typography/customize/control-typography.php:277
+msgid "Gloria Hallelujah"
+msgstr "غلوريا سبحان الله"
+
+#: inc/typography/customize/control-typography.php:278
+msgid "Great Vibes"
+msgstr "ردود فعل إيجابية كبيرة"
+
+#: inc/typography/customize/control-typography.php:279
+msgid "Handlee"
+msgstr "Handlee"
+
+#: inc/typography/customize/control-typography.php:280
+msgid "Hammersmith One"
+msgstr "هامرسميث واحد"
+
+#: inc/typography/customize/control-typography.php:281
+msgid "Inconsolata"
+msgstr "Inconsolata"
+
+#: inc/typography/customize/control-typography.php:282
+msgid "Indie Flower"
+msgstr "إيندي زهرة"
+
+#: inc/typography/customize/control-typography.php:283
+msgid "IM Fell English SC"
+msgstr "IM Fell English SC"
+
+#: inc/typography/customize/control-typography.php:284
+msgid "Julius Sans One"
+msgstr "يوليوس بلا"
+
+#: inc/typography/customize/control-typography.php:285
+msgid "Josefin Slab"
+msgstr "جوزفين سلاب"
+
+#: inc/typography/customize/control-typography.php:286
+msgid "Josefin Sans"
+msgstr "جوزفين بلا"
+
+#: inc/typography/customize/control-typography.php:287
+msgid "Kanit"
+msgstr "Kanit"
+
+#: inc/typography/customize/control-typography.php:288
+msgid "Lobster"
+msgstr "سرطان البحر"
+
+#: inc/typography/customize/control-typography.php:289
+msgid "Lato"
+msgstr "جانب"
+
+#: inc/typography/customize/control-typography.php:290
+msgid "Lora"
+msgstr "لورا"
+
+#: inc/typography/customize/control-typography.php:291
+msgid "Libre Baskerville"
+msgstr "باسكرفيل"
+
+#: inc/typography/customize/control-typography.php:292
+msgid "Lobster Two"
+msgstr "جراد البحر اثنين"
+
+#: inc/typography/customize/control-typography.php:293
+msgid "Merriweather"
+msgstr "Merriweather"
+
+#: inc/typography/customize/control-typography.php:294
+msgid "Monda"
+msgstr "عالم"
+
+#: inc/typography/customize/control-typography.php:295
+msgid "Montserrat"
+msgstr "مونتسيرات"
+
+#: inc/typography/customize/control-typography.php:296
+msgid "Muli"
+msgstr "ثانية"
+
+#: inc/typography/customize/control-typography.php:297
+msgid "Marck Script"
+msgstr "مارك النصي"
+
+#: inc/typography/customize/control-typography.php:298
+msgid "Noto Serif"
+msgstr "نوتو سريف"
+
+#: inc/typography/customize/control-typography.php:299
+msgid "Open Sans"
+msgstr "بلا بلا"
+
+#: inc/typography/customize/control-typography.php:300
+msgid "Overpass"
+msgstr "بز"
+
+#: inc/typography/customize/control-typography.php:301
+msgid "Overpass Mono"
+msgstr "جسر مونو"
+
+#: inc/typography/customize/control-typography.php:302
+msgid "Oxygen"
+msgstr "أكسجين"
+
+#: inc/typography/customize/control-typography.php:303
+msgid "Orbitron"
+msgstr "Orbitron"
+
+#: inc/typography/customize/control-typography.php:304
+msgid "Patua One"
+msgstr "ضرب واحد"
+
+#: inc/typography/customize/control-typography.php:305
+msgid "Pacifico"
+msgstr "باسيفيكو"
+
+#: inc/typography/customize/control-typography.php:306
+msgid "Padauk"
+msgstr "Padauk"
+
+#: inc/typography/customize/control-typography.php:307
+msgid "Playball"
+msgstr "لعب الكرة"
+
+#: inc/typography/customize/control-typography.php:308
+msgid "Playfair Display"
+msgstr "عرض Playfair"
+
+#: inc/typography/customize/control-typography.php:309
+msgid "PT Sans"
+msgstr "حزب العمال بلا"
+
+#: inc/typography/customize/control-typography.php:310
+msgid "Philosopher"
+msgstr "فيلسوف"
+
+#: inc/typography/customize/control-typography.php:311
+msgid "Permanent Marker"
+msgstr "علامة دائمة"
+
+#: inc/typography/customize/control-typography.php:312
+msgid "Poiret One"
+msgstr "Poiret One"
+
+#: inc/typography/customize/control-typography.php:313
+msgid "Quicksand"
+msgstr "الرمال المتحركة"
+
+#: inc/typography/customize/control-typography.php:314
+msgid "Quattrocento Sans"
+msgstr "كواتروسينتو بلا"
+
+#: inc/typography/customize/control-typography.php:315
+msgid "Raleway"
+msgstr "Raleway"
+
+#: inc/typography/customize/control-typography.php:316
+msgid "Rubik"
+msgstr "روبيك"
+
+#: inc/typography/customize/control-typography.php:317
+msgid "Rokkitt"
+msgstr "Rokkitt"
+
+#: inc/typography/customize/control-typography.php:318
+msgid "Russo One"
+msgstr "روسو واحد"
+
+#: inc/typography/customize/control-typography.php:319
+msgid "Righteous"
+msgstr "صالح"
+
+#: inc/typography/customize/control-typography.php:320
+msgid "Slabo"
+msgstr "سيئة"
+
+#: inc/typography/customize/control-typography.php:321
+msgid "Source Sans Pro"
+msgstr "المصدر بدون برو"
+
+#: inc/typography/customize/control-typography.php:322
+msgid "Shadows Into Light Two"
+msgstr "الظلال في ضوء اثنين"
+
+#: inc/typography/customize/control-typography.php:323
+msgid "Shadows Into Light"
+msgstr "الظلال في الضوء"
+
+#: inc/typography/customize/control-typography.php:324
+msgid "Sacramento"
+msgstr "سكرامنتو"
+
+#: inc/typography/customize/control-typography.php:325
+msgid "Shrikhand"
+msgstr "Shrikhand"
+
+#: inc/typography/customize/control-typography.php:326
+msgid "Tangerine"
+msgstr "يوسفي"
+
+#: inc/typography/customize/control-typography.php:327
+msgid "Ubuntu"
+msgstr "أوبونتو"
+
+#: inc/typography/customize/control-typography.php:328
+msgid "VT323"
+msgstr "فتعاع"
+
+#: inc/typography/customize/control-typography.php:329
+msgid "Varela Round"
+msgstr "جولة فاريلا"
+
+#: inc/typography/customize/control-typography.php:330
+msgid "Vampiro One"
+msgstr "Vampiro واحد"
+
+#: inc/typography/customize/control-typography.php:331
+msgid "Vollkorn"
+msgstr "الاسمر"
+
+#: inc/typography/customize/control-typography.php:332
+msgid "Volkhov"
+msgstr "فولخوف"
+
+#: inc/typography/customize/control-typography.php:333
+msgid "Yanone Kaffeesatz"
+msgstr "قهوة يانون"
+
+#: inc/typography/customize/control-typography.php:347
+msgid "No Fonts weight"
+msgstr "لا وزن الخطوط"
+
+#: inc/typography/customize/control-typography.php:348
+msgid "Thin"
+msgstr "نحيف ضعيف"
+
+#: inc/typography/customize/control-typography.php:349
+msgid "Light"
+msgstr "ضوء"
+
+#: inc/typography/customize/control-typography.php:350
+#: inc/typography/customize/control-typography.php:368
+msgid "Normal"
+msgstr "عادي"
+
+#: inc/typography/customize/control-typography.php:351
+msgid "Medium"
+msgstr "متوسط"
+
+#: inc/typography/customize/control-typography.php:352
+msgid "Bold"
+msgstr "بالخط العريض"
+
+#: inc/typography/customize/control-typography.php:353
+msgid "Ultra Bold"
+msgstr "جريئة جدا"
+
+#: inc/typography/customize/control-typography.php:367
+msgid "No Fonts Style"
+msgstr "لا نمط الخطوط"
+
+#: inc/typography/customize/control-typography.php:369
+msgid "Italic"
+msgstr "مائل"
+
+#: inc/typography/customize/control-typography.php:370
+msgid "Oblique"
+msgstr "منحرف - مائل"
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here."
+msgstr "جاهز لنشر أول منشوراتك؟ ابدأ هنا"
+
+#: no-results.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"آسف ، ولكن لا شيء يطابق مصطلحات البحث. أرجو المحاولة مرة أخرى بإستخدام كلمات "
+"أخرى."
+
+#: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "لا تقلق & hellip يحدث لأفضل منا."
+
+#: no-results.php:19
+msgid "Back to Home Page"
+msgstr "العودة إلى الصفحة الرئيسية"
+
+#: page-template/custom-home-page.php:43
+#: page-template/custom-home-page.php:94
+#: page-template/custom-home-page.php:134
+#: page-template/custom-home-page.php:225
+#: template-parts/content-audio.php:55
+#: template-parts/content-gallery.php:43
+#: template-parts/content-image.php:42
+#: template-parts/content-image.php:67
+#: template-parts/content-image.php:91
+#: template-parts/content-video.php:54
+#: template-parts/content.php:42
+#: template-parts/content.php:67
+#: template-parts/content.php:91
+#: template-parts/grid-layout.php:26
+#: inc/customizer.php:539
+#: inc/customizer.php:545
+msgid "READ MORE"
+msgstr "قراءة المزيد"
+
+#: page-template/custom-home-page.php:58
+#: template-parts/single-post-layout.php:54
+msgid "Previous"
+msgstr "سابق"
+
+#: page-template/custom-home-page.php:59
+#: template-parts/single-post-layout.p62:51
+msgid "Next"
+msgstr "التالى"
+
+#: search.php:13
+#, php-format
+msgid "Results For: %s"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search"
+msgstr "بحث"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "بحث"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "أرشيف"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "ميتا"
+
+#: template-parts/image-layout.php:28
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: template-parts/single-post-layout.php:46
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class = \"meta-nav\"> تم النشر في </ span> <span class = \"post-title"
+"\">٪ title </span>"
+
+#: template-parts/single-post-layout.php:52
+msgid "Next post:"
+msgstr "المنصب التالي:>"
+
+#: template-parts/single-post-layout.php:55
+msgid "Previous post:"
+msgstr "المنشور السابق:"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "يجب عليك أن تقوم بتسجيل الدخول إلى الخروج."
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "طلبك"

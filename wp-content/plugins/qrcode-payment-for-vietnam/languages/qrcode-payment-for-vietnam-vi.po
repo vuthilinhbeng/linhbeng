@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QRCode Payment for Vietnam\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-08 12:57+0000\n"
+"PO-Revision-Date: 2021-04-08 20:22+0700\n"
+"Language-Team: \n"
+"Language: vi\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: qrcode-payment-for-vietnam\n"
+"Last-Translator: \n"
+
+#: payment-gateway/base.php:59
+#, php-format
+msgid "%s does not support your store currency."
+msgstr "%s chỉ hỗ trợ Việt Nam Đồng."
+
+#: views/thankyou.php:39
+msgid "Addition payment content"
+msgstr "Nhập nội dung chuyển tiền"
+
+#: views/thankyou.php:77
+msgid "Are you already paid?"
+msgstr "Bạn đã thanh toán xong?"
+
+#: payment-gateway/base.php:143
+#, php-format
+msgid "Awaiting %s payment."
+msgstr "Đang chờ xử lý từ cổng thanh toán %s."
+
+#: views/thankyou.php:79
+msgid "Close"
+msgstr "Đóng"
+
+#: payment-gateway/base.php:96
+msgid "Description"
+msgstr "Mô tả"
+
+#: views/thankyou.php:58
+msgid "Download Qr Code"
+msgstr "Tải mã thanh toán về máy"
+
+#: payment-gateway/base.php:85
+#, php-format
+msgid "Enable %s payment gateway"
+msgstr "Bật cổng thanh toán %s"
+
+#: payment-gateway/base.php:83
+msgid "Enable/Disable"
+msgstr "Mở/Đóng chức năng"
+
+#: payment-gateway/base.php:59
+msgid "Gateway disabled."
+msgstr "Cổng thanh toán bị vô hiệu hoá."
+
+#. Description of the plugin
+msgid "Integrate QR Code from Momo, ZaloPay, AirPay, ViettelPay, Moca Payment Gateway for Woocommerce."
+msgstr "Tích hợp mã QR của các cổng thanh toán Momo, ZaloPay, AirPay, ViettelPay, Moca vào Woocommerce."
+
+#: payment-gateway/base.php:117
+msgid "Invoice prefix"
+msgstr "Tiền tố của hoá đơn"
+
+#: views/thankyou.php:70
+msgid "Open app"
+msgstr "Mở App quét mã"
+
+#: payment-gateway/base.php:100
+#, php-format
+msgid "Pay via %s"
+msgstr "Thanh toán qua %s"
+
+#: payment-gateway/base.php:120
+msgid "Please enter a prefix for your invoice numbers."
+msgstr "Xin vui lòng nhập đoạn tiền tố phía trước số hoá đơn."
+
+#: payment-gateway/base.php:30
+#, php-format
+msgid "Proceed to %s"
+msgstr "Thanh toán qua %s"
+
+#: payment-gateway/baseup.php:42
+msgid "QrCode"
+msgstr "QrCode"
+
+#. Name of the plugin
+msgid "QRCode Payment for Vietnam"
+msgstr "Thanh toán qua QR code cho người dùng Việt Nam"
+
+#: views/thankyou.php:21
+msgid "Receiver"
+msgstr "Người nhận"
+
+#: payment-gateway/base.php:25
+#, php-format
+msgid ""
+"Show QRCode to pay via %s. Learn how to setting your <a href=\"%s\" target=\"_blank"
+"\">gateway integration information</a>."
+msgstr ""
+"Hiển thị mã QR để thanh toán qua %s. Bạn có thể xem hướng dẫn cách <a href=\"%s\" target="
+"\"_blank\">tích hợp cổng thanh toán</a>."
+
+#: views/thankyou.php:80
+msgid "Submit to us!"
+msgstr "Tôi đã thanh toán!"
+
+#: views/thankyou.php:79
+msgid "Thank You!"
+msgstr "Cảm ơn bạn!"
+
+#: payment-gateway/base.php:99
+msgid "This controls the description which the user sees during checkout."
+msgstr "Điều chỉnh mô tả mà khách hàng có thể thấy trong quá trình thanh toán."
+
+#: payment-gateway/base.php:92
+msgid "This controls the title which the user sees during checkout."
+msgstr "Điều chỉnh tựa đề mà khách hàng thấy trong quá trình thanh toán."
+
+#: payment-gateway/base.php:89
+msgid "Title"
+msgstr "Tựa đề"
+
+#: views/thankyou.php:32
+msgid "Total"
+msgstr "Số tiền"
+
+#: views/thankyou.php:16
+#, php-format
+msgid "Using %s mobile application to scan qr code."
+msgstr "Sử dụng ứng dụng %s để quét mã thanh toán."
+
+#: views/thankyou.php:67
+#, php-format
+msgid "You can use %s mobile application to scan qr code."
+msgstr "Bạn mở app %s quét mã và nhấn vào biểu tượng như chỉ dẫn hình dưới."
+
+#: payment-gateway/baseup.php:45
+#, php-format
+msgid "Your %s QrCode"
+msgstr "Mã QR %s của bạn"
+
+#: payment-gateway/base.php:103
+msgid "Your name"
+msgstr "Tên của bạn"
+
+#: payment-gateway/base.php:106
+#, php-format
+msgid "Your name in %s app"
+msgstr "Họ tên hiển thị của bạn ở ứng dụng %s"
+
+#: payment-gateway/base.php:110
+msgid "Your phone number"
+msgstr "Số điện thoại của bạn"
+
+#: payment-gateway/base.php:113
+#, php-format
+msgid "Your phone number in %s app"
+msgstr "Số điện thoại của bạn ở ứng dụng %s"

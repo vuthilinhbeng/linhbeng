@@ -1,0 +1,160 @@
+# Translation of Plugins - QRCode Payment for Vietnam - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - QRCode Payment for Vietnam - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-20 16:24:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - QRCode Payment for Vietnam - Stable (latest release)\n"
+
+#: payment-gateway/base.php:61
+msgid "%s does not support your store currency."
+msgstr "%s chỉ hỗ trợ Việt Nam Đồng."
+
+#: views/thankyou.php:39
+msgid "Addition payment content"
+msgstr "Nhập nội dung chuyển tiền"
+
+#: views/thankyou.php:77
+msgid "Are you already paid?"
+msgstr "Bạn đã thanh toán xong?"
+
+#: payment-gateway/base.php:145
+msgid "Awaiting %s payment."
+msgstr "Đang chờ xử lý từ cổng thanh toán %s."
+
+#: views/thankyou.php:79
+msgid "Close"
+msgstr "Đóng"
+
+#: payment-gateway/base.php:98
+msgid "Description"
+msgstr "Mô tả"
+
+#: views/thankyou.php:58
+msgid "Download Qr Code"
+msgstr "Tải mã thanh toán về máy"
+
+#: payment-gateway/base.php:87
+msgid "Enable %s payment gateway"
+msgstr "Bật cổng thanh toán %s"
+
+#: payment-gateway/base.php:85
+msgid "Enable/Disable"
+msgstr "Mở/Đóng chức năng"
+
+#: payment-gateway/base.php:61
+msgid "Gateway disabled."
+msgstr "Cổng thanh toán bị vô hiệu hoá."
+
+#: payment-gateway/base.php:119
+msgid "Invoice prefix"
+msgstr "Tiền tố của hoá đơn"
+
+#: views/thankyou.php:70
+msgid "Open app"
+msgstr "Mở App quét mã"
+
+#: payment-gateway/base.php:102
+msgid "Pay via %s"
+msgstr "Thanh toán qua %s"
+
+#: payment-gateway/base.php:122
+msgid "Please enter a prefix for your invoice numbers."
+msgstr "Xin vui lòng nhập đoạn tiền tố phía trước số hoá đơn."
+
+#: payment-gateway/base.php:32
+msgid "Proceed to %s"
+msgstr "Thanh toán qua %s"
+
+#: payment-gateway/baseup.php:44
+msgid "QrCode"
+msgstr "QrCode"
+
+#. Plugin Name of the plugin
+msgid "QRCode Payment for Vietnam"
+msgstr "Thanh toán qua QR code cho người dùng Việt Nam"
+
+#: views/thankyou.php:21
+msgid "Receiver"
+msgstr "Người nhận"
+
+#: payment-gateway/base.php:27
+msgid "Show QRCode to pay via %s. Learn how to setting your <a href=\"%s\" target=\"_blank\">gateway integration information</a>."
+msgstr "Hiển thị mã QR để thanh toán qua %s. Bạn có thể xem hướng dẫn cách <a href=\"%s\" target=\"_blank\">tích hợp cổng thanh toán</a>."
+
+#: views/thankyou.php:80
+msgid "Submit to us!"
+msgstr "Tôi đã thanh toán!"
+
+#: views/thankyou.php:79
+msgid "Thank You!"
+msgstr "Cảm ơn bạn!"
+
+#: payment-gateway/base.php:101
+msgid "This controls the description which the user sees during checkout."
+msgstr "Điều chỉnh mô tả mà khách hàng có thể thấy trong quá trình thanh toán."
+
+#: payment-gateway/base.php:94
+msgid "This controls the title which the user sees during checkout."
+msgstr "Điều chỉnh tựa đề mà khách hàng thấy trong quá trình thanh toán."
+
+#: payment-gateway/base.php:91
+msgid "Title"
+msgstr "Tựa đề"
+
+#: views/thankyou.php:32
+msgid "Total"
+msgstr "Số tiền"
+
+#: views/thankyou.php:16
+msgid "Using %s mobile application to scan qr code."
+msgstr "Sử dụng ứng dụng %s để quét mã thanh toán."
+
+#: views/thankyou.php:67
+msgid "You can use %s mobile application to scan qr code."
+msgstr "Bạn mở app %s quét mã và nhấn vào biểu tượng như chỉ dẫn hình dưới."
+
+#: payment-gateway/baseup.php:47
+msgid "Your %s QrCode"
+msgstr "Mã QR %s của bạn"
+
+#: payment-gateway/base.php:105
+msgid "Your name"
+msgstr "Tên của bạn"
+
+#: payment-gateway/base.php:108
+msgid "Your name in %s app"
+msgstr "Họ tên hiển thị của bạn ở ứng dụng %s"
+
+#: payment-gateway/base.php:112
+msgid "Your phone number"
+msgstr "Số điện thoại của bạn"
+
+#: payment-gateway/base.php:115
+msgid "Your phone number in %s app"
+msgstr "Số điện thoại của bạn ở ứng dụng %s"
+
+#: qrcode-payment-for-vietnam.php:55
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: qrcode-payment-for-vietnam.php:51
+msgid "<div class=\"error\"><p><span>Sorry, but <strong>Momo Payment for Woocommerce</strong> requires <a href=\"https://wordpress.org/plugins/woocommerce/\" target=\"_blank\" style=\"color: #0073aa;text-decoration: none;\">Woocommerce</a> to be installed and active.</span></p></div>"
+msgstr "<div class=\"error\"><p><span>Trước khi sử dụng <strong>Momo Payment for Woocommerce</strong> bạn cần cài đặt <a href=\"https://wordpress.org/plugins/woocommerce/\" target=\"_blank\" style=\"color: #0073aa;text-decoration: none;\">Woocommerce</a> và kích hoạt nó.</span></p></div>"
+
+#. Author URI of the plugin
+msgid "https://bluecoral.vn"
+msgstr "https://bluecoral.vn"
+
+#. Author of the plugin
+msgid "Blue Coral"
+msgstr "Blue Coral"
+
+#. Plugin URI of the plugin
+msgid "https://bluecoral.vn/plugin/momo-payment-for-vietnam"
+msgstr "https://bluecoral.vn/plugin/momo-payment-for-vietnam"

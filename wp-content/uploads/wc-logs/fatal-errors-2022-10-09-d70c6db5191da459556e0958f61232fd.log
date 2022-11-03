@@ -1,0 +1,20 @@
+2022-10-09T06:01:53+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\VideoPress\WPCOM_REST_API_V2_Attachment_VideoPress_Field' not found in C:\xampp\htdocs\huhu\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-videopress\src\class-initializer.php:88
+Stack trace:
+#0 C:\xampp\htdocs\huhu\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-videopress\src\class-initializer.php(32): Automattic\Jetpack\VideoPress\Initializer::unconditional_initialization()
+#1 C:\xampp\htdocs\huhu\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-config\src\class-config.php(292): Automattic\Jetpack\VideoPress\Initializer::init()
+#2 C:\xampp\htdocs\huhu\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-config\src\class-config.php(196): Automattic\Jetpack\Config->enable_videopress()
+#3 C:\xampp\htdocs\huhu\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-config\src\class-config.php(147): Automattic\Jetpack\Config->ensure_feature('videopress')
+#4 C:\xampp\htdocs\huhu\wp-includes\class-wp-hook.php(307): Autom in C:\xampp\htdocs\huhu\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-videopress\src\class-initializer.php on line 88
+
+2022-10-09T15:22:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-content\plugins\wordpress-seo\admin\class-yoast-input-validation.php on line 327
+
+2022-10-09T15:23:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-includes\widgets\class-wp-nav-menu-widget.php on line 203
+
+2022-10-09T15:23:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-content\plugins\mailpoet\vendor\woocommerce\action-scheduler\deprecated\ActionScheduler_AdminView_Deprecated.php on line 2
+
+2022-10-09T15:23:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-content\plugins\contact-form-7\modules\stripe\api.php on line 155
+
+2022-10-09T15:23:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-content\plugins\ti-woocommerce-wishlist\integrations\woocommerce-product-addon.php on line 16
+
+2022-10-09T15:24:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-content\plugins\cartflows\modules\checkout\classes\class-cartflows-checkout-markup.php on line 9
+

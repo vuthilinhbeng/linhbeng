@@ -1,0 +1,1326 @@
+# <!=Copyright (C) 2019 VW Themes
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Sirat 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-16 16:17+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-08-17 08:39+0530\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ../../..\n"
+"Last-Translator: \n"
+"Language: it\n"
+"X-Poedit-SearchPath-0: sirat\n"
+"X-Poedit-SearchPath-1: Documents/sirat 2/languages\n"
+"X-Poedit-SearchPathExcluded-0: Documents/sirat 2/languages\n"
+
+#: 404.php:12
+msgid "404"
+msgstr "404"
+
+#: 404.php:12
+msgid "Not Found"
+msgstr "Non trovato"
+
+#: 404.php:13
+msgid "Looks like you have taken a wrong turn&hellip;"
+msgstr "Sembra che tu abbia preso una svolta sbagliata & hellip;"
+
+#: 404.php:14
+msgid "Dont worry&hellip; it happens to the best of us."
+msgstr "Non ti preoccupare & hellip; succede al meglio di noi."
+
+#: 404.php:16 
+#: no-results.php:19
+msgid "Home link"
+msgstr "Collegamento a casa"
+
+#: 404.php:16
+msgid "Go Back"
+msgstr "Torna indietro"
+
+#: archive.php:45 
+#: archive.php:77
+#: archive.php:108 
+#: archive.php:139
+#: archive.php:172 
+#: archive.php:207
+#: archive.php:239
+#: image.php:38
+#: image.php:71 
+#: image.php:103
+#: image.php:135 
+#: image.php:169
+#: image.php:204 
+#: image.php:236
+#: index.php:43 
+#: index.php:76
+#: index.php:108 
+#: index.php:140
+#: index.php:174 
+#: index.php:209
+#: index.php:241 
+#: search.php:40
+#: search.php:72 
+#: search.php:103
+#: search.php:134 
+#: search.php:167
+#: search.php:202
+#: search.php:234
+#: single.php:38 
+#: single.php:71
+#: single.php:103 
+#: single.php:135
+#: single.php:169 
+#: single.php:204
+#: single.php:236
+msgid "Previous page"
+msgstr "Pagina precedente"
+
+#: archive.php:46 
+#: archive.php:78
+#: archive.php:109 
+#: archive.php:140
+#: archive.php:173
+#: archive.php:208
+#: archive.php:240 
+#: image.php:39
+#: image.php:72 
+#: image.php:104
+#: image.php:136 
+#: image.php:170
+#: image.php:205 
+#: image.php:237
+#: index.php:44 
+#: index.php:77
+#: index.php:109 
+#: index.php:141
+#: index.php:175 
+#: index.php:210
+#: index.php:242 
+#: search.php:41
+#: search.php:73 
+#: search.php:104
+#: search.php:135 
+#: search.php:168
+#: search.php:203 
+#: search.php:235
+#: single.php:39 
+#: single.php:72
+#: single.php:104 
+#: single.php:136
+#: single.php:170 
+#: single.php:205
+#: single.php:237
+msgid "Next page"
+msgstr "Pagina successiva"
+
+#: archive.php:47 
+#: archive.php:79
+#: archive.php:110 
+#: archive.php:141
+#: archive.php:174 
+#: archive.php:209
+#: archive.php:241 
+#: image.php:40
+#: image.php:73 
+#: image.php:105
+#: image.php:137 
+#: image.php:171
+#: image.php:206 
+#: image.php:238
+#: index.php:45 
+#: index.php:78
+#: index.php:110 
+#: index.php:142
+#: index.php:176 
+#: index.php:211
+#: index.php:243 
+#: search.php:42
+#: search.php:74 
+#: search.php:105
+#: search.php:136
+#: search.php:169
+#: search.php:204 
+#: search.php:236
+#: single.php:40 
+#: single.php:73
+#: single.php:105 
+#: single.php:137
+#: single.php:171 
+#: single.php:206
+#: single.php:238
+msgid "Page"
+msgstr "Pagina"
+
+#: comments.php:30
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un pensiero su & ldquo;% s & rdquo;"
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: footer.php:58
+msgid "&copy; Copyright 2019 -"
+msgstr "&copia; Copyright 2019 -"
+
+#: footer.php:63 footer.php:65
+#: footer.php:67
+msgid "Scroll Up"
+msgstr "Scorrere verso l'alto"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "Menù primario"
+
+#: functions.php:59
+msgid "Blog Sidebar"
+msgstr "Blog Sidebar"
+
+#: functions.php:60
+msgid "Appears on blog page sidebar"
+msgstr "Appare nella barra laterale della pagina del blog"
+
+#: functions.php:69
+msgid "Page Sidebar"
+msgstr "Barra laterale della pagina"
+
+#: functions.php:70
+#: functions.php:80
+msgid "Appears on page sidebar"
+msgstr "Appare nella barra laterale della pagina"
+
+#: functions.php:79
+msgid "Sidebar 3"
+msgstr "Barra laterale 3"
+
+#: functions.php:89
+msgid "Footer Navigation 1"
+msgstr "Navigazione piè di pagina 1"
+
+#: functions.php:90
+msgid "Appears on footer 1"
+msgstr "Appare a piè di pagina 1"
+
+#: functions.php:99
+msgid "Footer Navigation 2"
+msgstr "Navigazione piè di pagina 2"
+
+#: functions.php:100
+msgid "Appears on footer 2"
+msgstr "Appare a piè di pagina 2"
+
+#: functions.php:101
+msgid "Footer Navigation 3"
+msgstr "Navigazione a piè di pagina 3"
+
+#: functions.php:110
+msgid "Appears on footer 3"
+msgstr "Appare a piè di pagina 3"
+
+#: functions.php:119
+msgid "Footer Navigation 4"
+msgstr "Navigazione a piè di pagina 4"
+
+#: functions.php:120
+msgid "Appears on footer 4"
+msgstr "Appare a piè di pagina 4"
+
+#: functions.php:129
+msgid "Top Bar Social Media"
+msgstr "Top Bar Social Media"
+
+#: functions.php:130
+msgid "Appears on top bar"
+msgstr "Appare sulla barra superiore"
+
+#: functions.php:139
+#: functions.php:150
+#: inc/customizer.php:94
+msgid "Shop Page Sidebar"
+msgstr "Barra laterale della pagina del negozio"
+
+#: functions.php:140
+msgid "Appears on shop page"
+msgstr "Compare sulla pagina del negozio"
+
+#: functions.php:149
+#: inc/customizer.php:105
+msgid "Single Product Sidebar"
+msgstr "Barra laterale per singolo prodotto"
+
+#: functions.php:329
+msgid "Sirat WordPress Theme"
+msgstr "Tema Sirat WordPress"
+
+#: header.php:17
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: inc/customizer.php:28
+msgid "VW Settings"
+msgstr "Impostazioni VW"
+
+#: inc/customizer.php:33
+msgid "General Settings"
+msgstr "impostazioni generali"
+
+#: inc/customizer.php:38
+msgid "Full Width"
+msgstr "Intera larghezza"
+
+#: inc/customizer.php:43
+msgid "Width Layouts"
+msgstr "Layout di larghezza"
+
+#: inc/customizer.php:44
+msgid "Here you can change the width layout of Website."
+msgstr "Qui è possibile modificare il layout della larghezza del sito Web."
+
+#: inc/customizer.php:53 
+#: inc/customizer.php:63
+#: inc/customizer.php:82
+msgid "Right Sidebar"
+msgstr "Barra laterale destra"
+
+#: inc/customizer.php:58
+msgid "Post Sidebar Layout"
+msgstr "Pubblica layout barra laterale"
+
+#: inc/customizer.php:59
+msgid "Here you can change the sidebar layout for posts. "
+msgstr "Qui puoi modificare il layout della barra laterale per i post."
+
+#: inc/customizer.php:62 
+#: inc/customizer.php:81
+msgid "Left Sidebar"
+msgstr "Barra laterale sinistra"
+
+#: inc/customizer.php:64 
+#: inc/customizer.php:72
+#: inc/customizer.php:83
+msgid "One Column"
+msgstr "Una colonna"
+
+#: inc/customizer.php:65
+msgid "Three Columns"
+msgstr "Tre colonne"
+
+#: inc/customizer.php:66
+msgid "Four Columns"
+msgstr "Quattro colonne"
+
+#: inc/customizer.php:67
+msgid "Grid Layout"
+msgstr "Layout della griglia"
+
+#: inc/customizer.php:77
+msgid "Page Sidebar Layout"
+msgstr "Layout della barra laterale della pagina"
+
+#: inc/customizer.php:78
+msgid "Here you can change the sidebar layout for pages. "
+msgstr "Qui puoi cambiare il layout della barra laterale per le pagine."
+
+#: inc/customizer.php:116
+msgid "Pre-Loader"
+msgstr "Pre-Loader"
+
+#: inc/customizer.php:121
+#: inc/customizer.php:129
+msgid "Two Way"
+msgstr "A due vie"
+
+#: inc/customizer.php:126
+msgid "Pre-Loader Type"
+msgstr "Tipo di precaricatore"
+
+#: inc/customizer.php:130
+msgid "Dots"
+msgstr "dots"
+
+#: inc/customizer.php:131
+msgid "Rotate"
+msgstr "Ruotare"
+
+#: inc/customizer.php:137
+msgid "Top Bar Settings"
+msgstr "Impostazioni della barra superiore"
+
+#: Desktop/sirat/inc/customizer.php:149
+msgid "Show / Hide Topbar"
+msgstr "Mostra / Nascondi barra superiore"
+
+#: inc/customizer.php:159
+msgid "Show / Hide Search"
+msgstr "Mostra / Nascondi ricerca"
+
+#: inc/customizer.php:170
+msgid "Sticky Header"
+msgstr "Testata appiccicosa"
+
+#: inc/customizer.php:179
+msgid "Add Phone Number"
+msgstr "Aggiungi numero di telefono"
+
+#: inc/customizer.php:181
+msgid "+00 987 654 1230"
+msgstr "+00997 654 1230"
+
+#: inc/customizer.php:192
+msgid "Add Email Address"
+msgstr "Aggiungi indirizzo email"
+
+#: inc/customizer.php:194
+msgid "example@gmail.com"
+msgstr "example@gmail.com"
+
+#: inc/customizer.php:202 
+#: inc/customizer.php:176
+msgid "Left"
+msgstr "Sinistra"
+
+#: inc/customizer.php:207
+msgid "Header Layouts"
+msgstr "Layout di intestazione"
+
+#: inc/customizer.php:217
+msgid "Slider Settings"
+msgstr "Impostazioni del dispositivo di scorrimento"
+
+#: inc/customizer.php:227
+msgid "Show / Hide Slider"
+msgstr "Mostra / Nascondi cursore"
+
+#: inc/customizer.php:238
+msgid "Slider Background Option"
+msgstr "Opzione Sfondo cursore"
+
+#: inc/customizer.php:239
+msgid "Please refresh the page after selecting background option"
+msgstr "Aggiorna la pagina dopo aver selezionato l'opzione di sfondo"
+
+#: inc/customizer.php:232
+#: inc/customizer.php:242
+msgid "Slideshow"
+msgstr "Presentazione"
+
+#: inc/customizer.php:243
+msgid "Image"
+msgstr "Immagine"
+
+#: inc/customizer.php:244
+msgid "Gradient"
+msgstr "Pendenza"
+
+#: inc/customizer.php:260
+#: inc/customizer.php:277
+msgid "Select Slider Page"
+msgstr "Seleziona la pagina di scorrimento"
+
+#: inc/customizer.php:261
+#: inc/customizer.php:278
+msgid "Slider image size (1500 x 800)"
+msgstr "Dimensione immagine del dispositivo di scorrimento (1500 x 800)"
+
+#: inc/customizer.php:316
+msgid "Select post"
+msgstr "Seleziona post"
+
+#: inc/customizer.php:328
+msgid "Slider Content Layouts"
+msgstr "Layout del contenuto del dispositivo di scorrimento"
+
+#: inc/customizer.php:345
+msgid "Slider Excerpt length"
+msgstr "Cursore Lunghezza estratto"
+
+#: inc/customizer.php:363
+msgid "Slider Image Opacity"
+msgstr "Opacità immagine del dispositivo di scorrimento"
+
+#: inc/customizer.php:383
+msgid "Our Services Settings"
+msgstr "Le nostre impostazioni dei servizi"
+
+#: inc/customizer.php:393
+msgid "Add Section Title"
+msgstr "Aggiungi titolo sezione"
+
+#: inc/customizer.php:395
+msgid "AWESOME SERVICES"
+msgstr "SERVIZI FANTASTICI"
+
+#: inc/customizer.php:406
+msgid "Add Section Text"
+msgstr "Aggiungi testo sezione"
+
+#: inc/customizer.php:408
+msgid "Lorem ipsum is dummy text"
+msgstr "Lorem ipsum è un testo fittizio"
+
+#: inc/customizer.php:433
+msgid "Select Category to display Services"
+msgstr "Seleziona la categoria per visualizzare i servizi"
+
+#: inc/customizer.php:434
+msgid "Image Size (50 x 50)"
+msgstr "Dimensione dell'immagine (50 x 50)"
+
+#: inc/customizer.php:443
+msgid "Select About Page"
+msgstr "Seleziona Informazioni sulla pagina"
+
+#: inc/customizer.php:444
+msgid "Image Size (280 x 280)"
+msgstr "Dimensione dell'immagine (280 x 280)"
+
+#: inc/customizer.php:457
+msgid "Services Excerpt length"
+msgstr "Servizi Lunghezza estratto"
+
+#: inc/customizer.php:470
+msgid "Blog Post Settings"
+msgstr "Impostazioni dei post sul blog"
+
+#: inc/customizer.php:480
+msgid "Post Date"
+msgstr "Data di pubblicazione"
+
+#: inc/customizer.php:490
+msgid "Author"
+msgstr "Autrice"
+
+#: inc/customizer.php:500
+msgid "Comments"
+msgstr "Commenti"
+
+#: inc/customizer.php:512
+msgid "Excerpt length"
+msgstr "Lunghezza estratto"
+
+#: inc/customizer.php:530
+msgid "Blog Layouts"
+msgstr "Layout del blog"
+
+#: inc/customizer.php:543
+msgid "Add Button Text"
+msgstr "Aggiungi testo pulsante"
+
+#: inc/customizer.php:553
+msgid "Customize Home Page Settings"
+msgstr "Personalizza le impostazioni della Home Page"
+
+#: inc/customizer.php:566
+msgid ""
+"First select static page in homepage setting for front page.Below given edit "
+"button is to customize Home Page. Just click on the edit option, add "
+"whatever elements you want to include in the homepage, save the changes and "
+"you are good to go."
+msgstr ""
+"Per prima cosa selezionare la pagina statica nelle impostazioni della "
+"homepage per la prima pagina. Di seguito, il pulsante di modifica fornito "
+"consente di personalizzare la Home Page. Basta fare clic sull'opzione di "
+"modifica, aggiungere gli elementi che si desidera includere nella home page, "
+"salvare le modifiche e si è pronti."
+
+#: inc/customizer.php:570
+#: template-parts/image-layout.php:33
+msgid "Edit"
+msgstr "modificare"
+
+#: inc/customizer.php:575
+msgid "Footer Settings"
+msgstr "Impostazioni piè di pagina"
+
+#: inc/customizer.php:584
+msgid "Copyright Text"
+msgstr "Testo sul copyright"
+
+#: inc/customizer.php:586
+msgid "Copyright 2019, ....."
+msgstr "Copyright 2019, ....."
+
+#: inc/customizer.php:598
+msgid "Show / Hide Scroll To Top"
+msgstr "Mostra / Nascondi Scorri verso l'alto"
+
+#: inc/customizer.php:603
+msgid "Right"
+msgstr "Destra"
+
+#: inc/customizer.php:608
+msgid "Scroll To Top"
+msgstr "Scorri verso l'alto"
+
+#: inc/customizer.php:693
+msgid "SIRAT PRO"
+msgstr "SIRAT PRO"
+
+#: inc/customizer.php:694
+msgid "UPGRADE PRO"
+msgstr "UPGRADE PRO"
+
+#: inc/logo/logo-resizer.php:19
+msgid "Logo Size"
+msgstr "Dimensione logo"
+
+#: inc/social-widgets/social-icon.php:12
+msgid "Social Icon"
+msgstr "Icona sociale"
+
+#: inc/social-widgets/social-icon.php:14
+msgid "Widget for Social icons section"
+msgstr "Widget per la sezione Icone sociali"
+
+#: inc/social-widgets/social-icon.php:36
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/social-widgets/social-icon.php:37
+msgid "Twitter"
+msgstr "cinguettio"
+
+#: inc/social-widgets/social-icon.php:38
+msgid "Google"
+msgstr "Google"
+
+#: inc/social-widgets/social-icon.php:39
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/social-widgets/social-icon.php:40
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/social-widgets/social-icon.php:41
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/social-widgets/social-icon.php:42
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/social-widgets/social-icon.php:43
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/social-widgets/social-icon.php:67
+msgid "Title:"
+msgstr "Titolo:"
+
+#: inc/social-widgets/social-icon.php:71
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: inc/social-widgets/social-icon.php:75
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: inc/social-widgets/social-icon.php:79
+msgid "Google+:"
+msgstr "Google+:"
+
+#: inc/social-widgets/social-icon.php:83
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: inc/social-widgets/social-icon.php:87
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: inc/social-widgets/social-icon.php:91
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: inc/social-widgets/social-icon.php:95
+msgid "Tumblr:"
+msgstr "Tumblr:"
+
+#: inc/social-widgets/social-icon.php:99
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: inc/typography/ctypo.php:27
+msgid "Theme Typography"
+msgstr "Tipografia a tema"
+
+#: inc/typography/ctypo.php:31
+msgid "Content Typography"
+msgstr "Tipografia del contenuto"
+
+#: inc/typography/ctypo.php:36
+msgid "Headings Typography"
+msgstr "Tipografia di titoli"
+
+#: inc/typography/ctypo.php:41
+msgid "Global Typography"
+msgstr "Tipografia globale"
+
+#: inc/typography/ctypo.php:49
+msgid "It will change the complete theme color in one click."
+msgstr "Cambierà il colore del tema completo con un clic."
+
+#: inc/typography/ctypo.php:137
+msgid "Paragraph Color"
+msgstr "Colore paragrafo"
+
+#: inc/typography/ctypo.php:138
+#: inc/typography/ctypo.php:144
+msgid "Select how you want your paragraphs to appear."
+msgstr "Seleziona la modalità di visualizzazione dei paragrafi."
+
+#: inc/typography/ctypo.php:143
+msgid "Paragraph Typography"
+msgstr "Tipografia di paragrafo"
+
+#: inc/typography/ctypo.php:164
+msgid "Anchor Tag Color"
+msgstr "Colore etichetta di ancoraggio"
+
+#: inc/typography/ctypo.php:165
+#: inc/typography/ctypo.php:171
+msgid "Select how you want your a tag to appear."
+msgstr "Seleziona la modalità di visualizzazione del tag."
+
+#: inc/typography/ctypo.php:170
+msgid "Anchor Tag Typography"
+msgstr "Tipografia tag di ancoraggio"
+
+#: inc/typography/ctypo.php:191
+msgid "Heading 1 Color"
+msgstr "Titolo 1 colore"
+
+#: inc/typography/ctypo.php:192
+#: inc/typography/ctypo.php:198
+msgid "Select how heading 1 should appear."
+msgstr "Seleziona come deve apparire la rubrica 1."
+
+#: inc/typography/ctypo.php:197
+msgid "Heading 1"
+msgstr "Titolo 1"
+
+#: inc/typography/ctypo.php:218
+msgid "Heading 2 Color"
+msgstr "Titolo 2 colori"
+
+#: inc/typography/ctypo.php:219
+#: inc/typography/ctypo.php:225
+msgid "Select how heading 2 should appear."
+msgstr "Seleziona come deve apparire l'intestazione 2."
+
+#: inc/typography/ctypo.php:224
+msgid "Heading 2"
+msgstr "Titolo 2"
+
+#: inc/typography/ctypo.php:245
+msgid "Heading 3 Color"
+msgstr "Titolo 3 colori"
+
+#: inc/typography/ctypo.php:246
+#: inc/typography/ctypo.php:252
+msgid "Select how heading 3 should appear."
+msgstr "Seleziona come deve apparire la rubrica 3."
+
+#: inc/typography/ctypo.php:251
+msgid "Heading 3"
+msgstr "Titolo 3"
+
+#: inc/typography/ctypo.php:272
+msgid "Heading 4 Color"
+msgstr "Titolo 4 colori"
+
+#: inc/typography/ctypo.php:273
+#: inc/typography/ctypo.php:279
+msgid "Select how heading 4 should appear."
+msgstr "Seleziona come deve apparire la rubrica 4."
+
+#: inc/typography/ctypo.php:278
+msgid "Heading 4"
+msgstr "Titolo 4"
+
+#: inc/typography/ctypo.php:299
+msgid "Heading 5 Color"
+msgstr "Rubrica 5 colori"
+
+#: inc/typography/ctypo.php:300
+#: inc/typography/ctypo.php:306
+msgid "Select how heading 5 should appear."
+msgstr "Seleziona come deve apparire la rubrica 5."
+
+#: inc/typography/ctypo.php:305
+msgid "Heading 5"
+msgstr "Titolo 5"
+
+#: inc/typography/ctypo.php:326
+msgid "Heading 6 Color"
+msgstr "Titolo 6 colori"
+
+#: inc/typography/ctypo.php:327
+#: inc/typography/ctypo.php:333
+msgid "Select how heading 6 should appear."
+msgstr "Seleziona come deve apparire la rubrica 6."
+
+#: inc/typography/ctypo.php:332
+msgid "Heading 6"
+msgstr "Titolo 6"
+
+#: inc/typography/customize/control-typography.php:48
+msgid "Font Color"
+msgstr "Colore del carattere"
+
+#: inc/typography/customize/control-typography.php:49
+msgid "Font Family"
+msgstr "Famiglia di font"
+
+#: inc/typography/customize/control-typography.php:50
+msgid "Font Size"
+msgstr "Dimensione del font"
+
+#: inc/typography/customize/control-typography.php:51
+msgid "Font Weight"
+msgstr "Peso carattere"
+
+#: inc/typography/customize/control-typography.php:52
+msgid "Font Style"
+msgstr "Stile del font"
+
+#: inc/typography/customize/control-typography.php:53
+msgid "Line Height"
+msgstr "Altezza della linea"
+
+#: inc/typography/customize/control-typography.php:54
+msgid "Letter Spacing"
+msgstr "Spaziatura del carattere"
+
+#: inc/typography/customize/control-typography.php:243
+msgid "No Fonts"
+msgstr "Nessun carattere"
+
+#: inc/typography/customize/control-typography.php:244
+msgid "Abril Fatface"
+msgstr "Abril Fatface"
+
+#: inc/typography/customize/control-typography.php:245
+msgid "Acme"
+msgstr "Acme"
+
+#: inc/typography/customize/control-typography.php:246
+msgid "Anton"
+msgstr "Anton"
+
+#: inc/typography/customize/control-typography.php:247
+msgid "Architects Daughter"
+msgstr "Figlia degli architetti"
+
+#: inc/typography/customize/control-typography.php:248
+msgid "Arimo"
+msgstr "Arimo"
+
+#: inc/typography/customize/control-typography.php:249
+msgid "Arsenal"
+msgstr "Arsenale"
+
+#: inc/typography/customize/control-typography.php:250
+msgid "Arvo"
+msgstr "Arvo"
+
+#: inc/typography/customize/control-typography.php:251
+msgid "Alegreya"
+msgstr "Alegreya"
+
+#: inc/typography/customize/control-typography.php:252
+msgid "Alfa Slab One"
+msgstr "Alfa Slab One"
+
+#: inc/typography/customize/control-typography.php:253
+msgid "Averia Serif Libre"
+msgstr "Averia Serif Libre"
+
+#: inc/typography/customize/control-typography.php:254
+msgid "Bangers"
+msgstr "Bangers"
+
+#: inc/typography/customize/control-typography.php:255
+msgid "Boogaloo"
+msgstr "Boogaloo"
+
+#: inc/typography/customize/control-typography.php:256
+msgid "Bad Script"
+msgstr "Script errato"
+
+#: inc/typography/customize/control-typography.php:257
+msgid "Bitter"
+msgstr "Amaro"
+
+#: inc/typography/customize/control-typography.php:258
+msgid "Bree Serif"
+msgstr "Bree Serif"
+
+#: inc/typography/customize/control-typography.php:259
+msgid "BenchNine"
+msgstr "BenchNine"
+
+#: inc/typography/customize/control-typography.php:260
+msgid "Cabin"
+msgstr "Cabina"
+
+#: inc/typography/customize/control-typography.php:261
+msgid "Cardo"
+msgstr "Cardo"
+
+#: inc/typography/customize/control-typography.php:262
+msgid "Courgette"
+msgstr "zucchine"
+
+#: inc/typography/customize/control-typography.php:263
+msgid "Cherry Swash"
+msgstr "Cherry Swash"
+
+#: inc/typography/customize/control-typography.php:264
+msgid "Cormorant Garamond"
+msgstr "Cormorano Garamond"
+
+#: inc/typography/customize/control-typography.php:265
+msgid "Crimson Text"
+msgstr "Testo cremisi"
+
+#: inc/typography/customize/control-typography.php:266
+msgid "Cuprum"
+msgstr "cuprum"
+
+#: inc/typography/customize/control-typography.php:267
+msgid "Cookie"
+msgstr "biscotto"
+
+#: inc/typography/customize/control-typography.php:268
+msgid "Chewy"
+msgstr "Chewy"
+
+#: inc/typography/customize/control-typography.php:269
+msgid "Days One"
+msgstr "Days One"
+
+#: inc/typography/customize/control-typography.php:270
+msgid "Dosis"
+msgstr "dosis"
+
+#: inc/typography/customize/control-typography.php:271
+msgid "Droid Sans"
+msgstr "Droid Sans"
+
+#: inc/typography/customize/control-typography.php:272
+msgid "Economica"
+msgstr "Economica"
+
+#: inc/typography/customize/control-typography.php:273
+msgid "Fredoka One"
+msgstr "Fredoka One"
+
+#: inc/typography/customize/control-typography.php:274
+msgid "Fjalla One"
+msgstr "Fjalla One"
+
+#: inc/typography/customize/control-typography.php:275
+msgid "Francois One"
+msgstr "Francois One"
+
+#: inc/typography/customize/control-typography.php:276
+msgid "Frank Ruhl Libre"
+msgstr "Frank Ruhl Libre"
+
+#: inc/typography/customize/control-typography.php:277
+msgid "Gloria Hallelujah"
+msgstr "Gloria Hallelujah"
+
+#: inc/typography/customize/control-typography.php:278
+msgid "Great Vibes"
+msgstr "Grandi vibrazioni"
+
+#: inc/typography/customize/control-typography.php:279
+msgid "Handlee"
+msgstr "Handlee"
+
+#: inc/typography/customize/control-typography.php:280
+msgid "Hammersmith One"
+msgstr "Hammersmith One"
+
+#: inc/typography/customize/control-typography.php:281
+msgid "Inconsolata"
+msgstr "Inconsolata"
+
+#: inc/typography/customize/control-typography.php:282
+msgid "Indie Flower"
+msgstr "Fiore Indie"
+
+#: inc/typography/customize/control-typography.php:283
+msgid "IM Fell English SC"
+msgstr "IM Fell English SC"
+
+#: inc/typography/customize/control-typography.php:284
+msgid "Julius Sans One"
+msgstr "Julius Sans One"
+
+#: inc/typography/customize/control-typography.php:285
+msgid "Josefin Slab"
+msgstr "Josefin Slab"
+
+#: inc/typography/customize/control-typography.php:286
+msgid "Josefin Sans"
+msgstr "Josefin Sans"
+
+#: inc/typography/customize/control-typography.php:287
+msgid "Kanit"
+msgstr "Kanit"
+
+#: inc/typography/customize/control-typography.php:288
+msgid "Lobster"
+msgstr "aragosta"
+
+#: inc/typography/customize/control-typography.php:289
+msgid "Lato"
+msgstr "Lato"
+
+#: inc/typography/customize/control-typography.php:290
+msgid "Lora"
+msgstr "Lora"
+
+#: inc/typography/customize/control-typography.php:291
+msgid "Libre Baskerville"
+msgstr "Baskerville gratuito"
+
+#: inc/typography/customize/control-typography.php:292
+msgid "Lobster Two"
+msgstr "Aragosta Due"
+
+#: inc/typography/customize/control-typography.php:293
+msgid "Merriweather"
+msgstr "Merriweather"
+
+#: inc/typography/customize/control-typography.php:294
+msgid "Monda"
+msgstr "Monda"
+
+#: inc/typography/customize/control-typography.php:295
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: inc/typography/customize/control-typography.php:296
+msgid "Muli"
+msgstr "Muli"
+
+#: inc/typography/customize/control-typography.php:297
+msgid "Marck Script"
+msgstr "Marck Script"
+
+#: inc/typography/customize/control-typography.php:298
+msgid "Noto Serif"
+msgstr "Noto Serif"
+
+#: inc/typography/customize/control-typography.php:299
+msgid "Open Sans"
+msgstr "Apri Sans"
+
+#: inc/typography/customize/control-typography.php:300
+msgid "Overpass"
+msgstr "Cavalcavia"
+
+#: inc/typography/customize/control-typography.php:301
+msgid "Overpass Mono"
+msgstr "Cavalcavia Mono"
+
+#: inc/typography/customize/control-typography.php:302
+msgid "Oxygen"
+msgstr "Ossigeno"
+
+#: inc/typography/customize/control-typography.php:303
+msgid "Orbitron"
+msgstr "Orbitron"
+
+#: inc/typography/customize/control-typography.php:304
+msgid "Patua One"
+msgstr "Patua One"
+
+#: inc/typography/customize/control-typography.php:305
+msgid "Pacifico"
+msgstr "Pacifico"
+
+#: inc/typography/customize/control-typography.php:306
+msgid "Padauk"
+msgstr "padauk"
+
+#: inc/typography/customize/control-typography.php:307
+msgid "Playball"
+msgstr "Giocare a palla"
+
+#: inc/typography/customize/control-typography.php:308
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: inc/typography/customize/control-typography.php:309
+msgid "PT Sans"
+msgstr "PT Sans"
+
+#: inc/typography/customize/control-typography.php:310
+msgid "Philosopher"
+msgstr "Filosofa"
+
+#: inc/typography/customize/control-typography.php:311
+msgid "Permanent Marker"
+msgstr "Pennarello indelebile"
+
+#: inc/typography/customize/control-typography.php:312
+msgid "Poiret One"
+msgstr "Poiret One"
+
+#: inc/typography/customize/control-typography.php:313
+msgid "Quicksand"
+msgstr "Sabbie mobili"
+
+#: inc/typography/customize/control-typography.php:314
+msgid "Quattrocento Sans"
+msgstr "Quattrocento Sans"
+
+#: inc/typography/customize/control-typography.php:315
+msgid "Raleway"
+msgstr "Raleway"
+
+#: inc/typography/customize/control-typography.php:316
+msgid "Rubik"
+msgstr "Rubik"
+
+#: inc/typography/customize/control-typography.php:317
+msgid "Rokkitt"
+msgstr "Rokkitt"
+
+#: inc/typography/customize/control-typography.php:318
+msgid "Russo One"
+msgstr "Russo One"
+
+#: inc/typography/customize/control-typography.php:319
+msgid "Righteous"
+msgstr "Giusta"
+
+#: inc/typography/customize/control-typography.php:320
+msgid "Slabo"
+msgstr "slabo"
+
+#: inc/typography/customize/control-typography.php:321
+msgid "Source Sans Pro"
+msgstr "Fonte Sans Pro"
+
+#: inc/typography/customize/control-typography.php:322
+msgid "Shadows Into Light Two"
+msgstr "Ombre nella luce due"
+
+#: inc/typography/customize/control-typography.php:323
+msgid "Shadows Into Light"
+msgstr "Ombre nella luce"
+
+#: inc/typography/customize/control-typography.php:324
+msgid "Sacramento"
+msgstr "Sacramento"
+
+#: inc/typography/customize/control-typography.php:325
+msgid "Shrikhand"
+msgstr "Shrikhand"
+
+#: inc/typography/customize/control-typography.php:326
+msgid "Tangerine"
+msgstr "Mandarino"
+
+#: inc/typography/customize/control-typography.php:327
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: inc/typography/customize/control-typography.php:328
+msgid "VT323"
+msgstr "VT323"
+
+#: inc/typography/customize/control-typography.php:329
+msgid "Varela Round"
+msgstr "Varela Round"
+
+#: inc/typography/customize/control-typography.php:330
+msgid "Vampiro One"
+msgstr "Vampiro One"
+
+#: inc/typography/customize/control-typography.php:331
+msgid "Vollkorn"
+msgstr "Vollkorn"
+
+#: inc/typography/customize/control-typography.php:332
+msgid "Volkhov"
+msgstr "Volkhov"
+
+#: inc/typography/customize/control-typography.php:333
+msgid "Yanone Kaffeesatz"
+msgstr "Yanone Kaffeesatz"
+
+#: inc/typography/customize/control-typography.php:347
+msgid "No Fonts weight"
+msgstr "Nessun peso dei caratteri"
+
+#: inc/typography/customize/control-typography.php:348
+msgid "Thin"
+msgstr "Magro"
+
+#: inc/typography/customize/control-typography.php:349
+msgid "Light"
+msgstr "Luce"
+
+#: inc/typography/customize/control-typography.php:350
+#: inc/typography/customize/control-typography.php:368
+msgid "Normal"
+msgstr "Normale"
+
+#: inc/typography/customize/control-typography.php:351
+msgid "Medium"
+msgstr "Media"
+
+#: inc/typography/customize/control-typography.php:352
+msgid "Bold"
+msgstr "Grassetto"
+
+#: inc/typography/customize/control-typography.php:353
+msgid "Ultra Bold"
+msgstr "Ultra grassetto"
+
+#: inc/typography/customize/control-typography.php:367
+msgid "No Fonts Style"
+msgstr "Nessuno stile di carattere"
+
+#: inc/typography/customize/control-typography.php:369
+msgid "Italic"
+msgstr "Corsivo"
+
+#: inc/typography/customize/control-typography.php:370
+msgid "Oblique"
+msgstr "Obliqua"
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "Non abbiamo trovato nulla"
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here."
+msgstr "Pronto a pubblicare il tuo primo post? Inizia qui"
+
+#: no-results.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Siamo spiacenti, ma nulla corrisponde ai tuoi termini di ricerca. Riprova "
+"con alcune parole chiave diverse."
+
+#: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Non ti preoccupare e hellip succede al meglio di noi."
+
+#: no-results.php:19
+msgid "Back to Home Page"
+msgstr "Torna alla Home Page"
+
+#: page-template/custom-home-page.php:43
+#: page-template/custom-home-page.php:94
+#: page-template/custom-home-page.php:134
+#: page-template/custom-home-page.php:225
+#: template-parts/content-audio.php:55
+#: template-parts/content-gallery.php:43
+#: template-parts/content-image.php:42
+#: template-parts/content-image.php:67
+#: template-parts/content-image.php:91
+#: template-parts/content-video.php:54
+#: template-parts/content.php:42
+#: template-parts/content.php:67
+#: template-parts/content.php:91
+#: template-parts/grid-layout.php:26
+#: inc/customizer.php:539
+#: inc/customizer.php:545
+msgid "READ MORE"
+msgstr "LEGGI DI PIÙ"
+
+#: page-template/custom-home-page.php:55
+#: template-parts/single-post-layout.php:54
+msgid "Previous"
+msgstr "Precedente"
+
+#: page-template/custom-home-page.php:59
+#: template-parts/single-post-layout.php:51
+msgid "Next"
+msgstr "Il prossimo"
+
+#: search.php:13
+#, php-format
+msgid "Results For: %s"
+msgstr "Risultati per:% s"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Ricerca"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Ricerca"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "archivio"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "Meta"
+
+#: template-parts/image-layout.php:28
+msgid "Pages:"
+msgstr "pagine:"
+
+#: template-parts/single-post-layout.php:46
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class = \"meta-nav\"> Pubblicato in </span> <span class = \"post-title"
+"\">% title </span>"
+
+#: template-parts/single-post-layout.php:52
+msgid "Next post:"
+msgstr "Articolo successivo:"
+
+#: template-parts/single-post-layout.php:55
+msgid "Previous post:"
+msgstr "Messaggio precedente:"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Devi essere registrato per effettuare il checkout."
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Il tuo ordine"

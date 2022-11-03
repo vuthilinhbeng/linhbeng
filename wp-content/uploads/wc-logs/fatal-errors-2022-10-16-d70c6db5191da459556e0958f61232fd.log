@@ -1,0 +1,10 @@
+2022-10-16T02:27:37+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\huhu\wp-includes\Requests\Transport\cURL.php on line 462
+
+2022-10-16T03:27:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-includes\Requests\Transport\cURL.php on line 462
+
+2022-10-16T03:28:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-includes\Requests\Transport\cURL.php on line 462
+
+2022-10-16T03:29:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-includes\Requests\Transport\cURL.php on line 462
+
+2022-10-16T03:30:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\huhu\wp-includes\Requests\Transport\cURL.php on line 462
+

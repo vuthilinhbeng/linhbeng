@@ -1,0 +1,10 @@
+{
+	"autoload": {
+		"psr-4": {
+			"vnpay\\": "src",
+			"vnpay\\Gateways\\": "src/gateways",
+			"vnpay\\Shortcodes\\": "src/shortcodes",
+			"vnpay\\Traits\\": "src/traits"
+		}
+	}
+}

@@ -1,0 +1,1303 @@
+# <!=Copyright (C) 2019 VW Themes
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Sirat 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-16 16:17+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-08-16 18:08+0530\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ../../..\n"
+"Last-Translator: \n"
+"Language: zh\n"
+"X-Poedit-SearchPath-0: sirat\n"
+"X-Poedit-SearchPath-1: Documents/sirat 2/languages\n"
+"X-Poedit-SearchPathExcluded-0: Documents/sirat 2/languages\n"
+
+#: 404.php:12
+msgid "404"
+msgstr "404"
+
+#: 404.php:12
+msgid "Not Found"
+msgstr "未找到"
+
+#: 404.php:13
+msgid "Looks like you have taken a wrong turn&hellip;"
+msgstr "看起来你已经走了一个错误的转弯＆hellip;"
+
+#: 404.php:14
+msgid "Dont worry&hellip; it happens to the best of us."
+msgstr "别担心＆hellip; 它发生在我们最好的人身上。"
+
+#: 404.php:16 
+#: no-results.php:19
+msgid "Home link"
+msgstr "主页链接"
+
+#: 404.php:16
+msgid "Go Back"
+msgstr "回去"
+
+#: archive.php:45 
+#: archive.php:77
+#: archive.php:108 
+#: archive.php:139
+#: archive.php:172 
+#: archive.php:207
+#: archive.php:239 
+#: image.php:38
+#: image.php:71 
+#: image.php:103
+#: image.php:135 
+#: image.php:169
+#: image.php:204 
+#: image.php:236
+#: index.php:43 
+#: index.php:76
+#: index.php:108 
+#: index.php:140
+#: index.php:174 
+#: index.php:209
+#: index.php:241 
+#: search.php:40
+#: search.php:72 
+#: search.php:103
+#: search.php:134 
+#: search.php:167
+#: search.php:202 
+#: search.php:234
+#: single.php:38
+#: single.php:71
+#: single.php:103 
+#: single.php:135
+#: single.php:169 
+#: single.php:204
+#: single.php:236
+msgid "Previous page"
+msgstr "上一页"
+
+#: archive.php:46 
+#: archive.php:78
+#: archive.php:109 
+#: archive.php:140
+#: archive.php:173 
+#: archive.php:208
+#: archive.php:240 
+#: image.php:39
+#: image.php:72 
+#: image.php:104
+#: image.php:136 
+#: image.php:170
+#: image.php:205 
+#: image.php:237
+#: index.php:44 
+#: index.php:77
+#: index.php:109 
+#: index.php:141
+#: index.php:175 
+#: index.php:210
+#: index.php:242 
+#: search.php:41
+#: search.php:73 
+#: search.php:104
+#: search.php:135 
+#: search.php:168
+#: search.php:203 
+#: search.php:235
+#: single.php:39 
+#: single.php:72
+#: single.php:104 
+#: single.php:136
+#: single.php:170 
+#: single.php:205
+#: single.php:237
+msgid "Next page"
+msgstr "下一页"
+
+#: archive.php:47 
+#: archive.php:79
+#: archive.php:110 
+#: archive.php:141
+#: archive.php:174 
+#: archive.php:209
+#: archive.php:241 
+#: image.php:40
+#: image.php:73 
+#: image.php:105
+#: image.php:137 
+#: image.php:171
+#: image.php:206 
+#: image.php:238
+#: index.php:45 
+#: index.php:78
+#: index.php:110 
+#: index.php:142
+#: index.php:176 
+#: index.php:211
+#: index.php:243 
+#: search.php:42
+#: search.php:74 
+#: search.php:105
+#: search.php:136 
+#: search.php:169
+#: search.php:204 
+#: search.php:236
+#: single.php:40 
+#: single.php:73
+#: single.php:105 
+#: single.php:137
+#: single.php:171 
+#: single.php:206
+#: single.php:238
+msgid "Page"
+msgstr "页"
+
+#: comments.php:30
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#: footer.php:58
+msgid "&copy; Copyright 2019 -"
+msgstr "＆复制; 版权所有2019  - "
+
+#: footer.php:63 footer.php:65
+#: footer.php:67
+msgid "Scroll Up"
+msgstr "向上滑动"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:52
+msgid "Blog Sidebar"
+msgstr "博客侧边栏"
+
+#: functions.php:53
+msgid "Appears on blog page sidebar"
+msgstr "出现在博客页面边栏上"
+
+#: functions.php:62
+msgid "Page Sidebar"
+msgstr "页面边栏"
+
+#: functions.php:63 
+#: functions.php:73
+msgid "Appears on page sidebar"
+msgstr "出现在页面边栏上"
+
+#: functions.php:72
+msgid "Sidebar 3"
+msgstr "边栏3"
+
+#: functions.php:82
+msgid "Footer Navigation 1"
+msgstr "页脚导航1"
+
+#: functions.php:83
+msgid "Appears on footer 1"
+msgstr "页脚1出现"
+
+#: functions.php:92
+msgid "Footer Navigation 2"
+msgstr "页脚导航2"
+
+#: functions.php:93
+msgid "Appears on footer 2"
+msgstr "页脚2出现"
+
+#: functions.php:102
+msgid "Footer Navigation 3"
+msgstr "页脚导航3"
+
+#: functions.php:103
+msgid "Appears on footer 3"
+msgstr "页脚3出现"
+
+#: functions.php:112
+msgid "Footer Navigation 4"
+msgstr "页脚导航4"
+
+#: functions.php:113
+msgid "Appears on footer 4"
+msgstr "页脚4出现"
+
+#: functions.php:122
+msgid "Top Bar Social Media"
+msgstr "顶级酒吧社交媒体"
+
+#: functions.php:123
+msgid "Appears on top bar"
+msgstr "出现在顶部栏上"
+
+#: functions.php:302
+msgid "Sirat WordPress Theme"
+msgstr "Sirat WordPress主题"
+
+#: header.php:17
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: inc/customizer.php:28
+msgid "VW Settings"
+msgstr "大众设置"
+
+#: inc/customizer.php:33
+msgid "General Settings"
+msgstr "常规设置"
+
+#: inc/customizer.php:38
+msgid "Full Width"
+msgstr "全屏宽度"
+
+#: inc/customizer.php:43
+msgid "Width Layouts"
+msgstr "宽度布局"
+
+#: inc/customizer.php:44
+msgid "Here you can change the width layout of Website."
+msgstr "在这里，您可以更改网站的宽度布局。"
+
+#: inc/customizer.php:53 inc/customizer.php:63
+#: inc/customizer.php:82
+msgid "Right Sidebar"
+msgstr "右侧边栏"
+
+#: inc/customizer.php:58
+msgid "Post Sidebar Layout"
+msgstr "帖子边栏布局"
+
+#: inc/customizer.php:59
+msgid "Here you can change the sidebar layout for posts. "
+msgstr "在这里，您可以更改帖子的侧边栏布局。"
+
+#: inc/customizer.php:62 inc/customizer.php:81
+msgid "Left Sidebar"
+msgstr "左侧边栏"
+
+#: inc/customizer.php:64 
+#: inc/customizer.php:72
+#: inc/customizer.php:83
+msgid "One Column"
+msgstr "一栏"
+
+#: inc/customizer.php:65
+msgid "Three Columns"
+msgstr "三列"
+
+#: inc/customizer.php:66
+msgid "Four Columns"
+msgstr "四列"
+
+#: inc/customizer.php:67
+msgid "Grid Layout"
+msgstr "网格布局"
+
+#: inc/customizer.php:77
+msgid "Page Sidebar Layout"
+msgstr "页面边栏布局"
+
+#: inc/customizer.php:78
+msgid "Here you can change the sidebar layout for pages. "
+msgstr "在这里，您可以更改页面的侧边栏布局。"
+
+#: inc/customizer.php:94
+msgid "Pre-Loader"
+msgstr "预装载机"
+
+#: inc/customizer.php:99 
+#: inc/customizer.php:107
+msgid "Two Way"
+msgstr "双向"
+
+#: inc/customizer.php:104
+msgid "Pre-Loader Type"
+msgstr "预装载机类型"
+
+#: inc/customizer.php:108
+msgid "Dots"
+msgstr "点"
+
+#: inc/customizer.php:109
+msgid "Rotate"
+msgstr "旋转"
+
+#: inc/customizer.php:115
+msgid "Top Bar Settings"
+msgstr "顶栏设置"
+
+#: inc/customizer.php:124
+msgid "Add Phone Number"
+msgstr "添加电话号码"
+
+#: inc/customizer.php:126
+msgid "+00 987 654 1230"
+msgstr "+00 987 654 1230"
+
+#: inc/customizer.php:137
+msgid "Add Email Address"
+msgstr "添加电子邮件地址"
+
+#: inc/customizer.php:139
+msgid "example@gmail.com"
+msgstr "example@gmail.com"
+
+#: inc/customizer.php:151
+msgid "Show / Hide Search"
+msgstr "显示/隐藏搜索"
+
+#: inc/customizer.php:162
+msgid "Sticky Header"
+msgstr "粘性标题"
+
+#: inc/customizer.php:168 
+#: inc/customizer.php:176
+msgid "Left"
+msgstr "剩下"
+
+#: inc/customizer.php:173
+msgid "Header Layouts"
+msgstr "标题布局"
+
+#: inc/customizer.php:183
+msgid "Slider Settings"
+msgstr "滑块设置"
+
+#: inc/customizer.php:193
+msgid "Show / Hide Slider"
+msgstr "显示/隐藏滑块"
+
+#: inc/customizer.php:204
+msgid "Select Slider Page"
+msgstr "选择滑块页面"
+
+#: inc/customizer.php:205
+msgid "Slider image size (1500 x 800)"
+msgstr "滑块图像尺寸（1500 x 800）"
+
+#: inc/customizer.php:218
+msgid "Slider Content Layouts"
+msgstr "滑块内容布局"
+
+#: inc/customizer.php:235
+msgid "Slider Excerpt length"
+msgstr "滑块摘录长度"
+
+#: inc/customizer.php:253
+msgid "Slider Image Opacity"
+msgstr "滑块图像不透明度"
+
+#: inc/customizer.php:273
+msgid "Our Services Settings"
+msgstr "我们的服务设置"
+
+#: inc/customizer.php:283
+msgid "Add Section Title"
+msgstr "添加章节标题"
+
+#: inc/customizer.php:285
+msgid "AWESOME SERVICES"
+msgstr "真棒服务"
+
+#: inc/customizer.php:296
+msgid "Add Section Text"
+msgstr "添加部分文本"
+
+#: inc/customizer.php:298
+msgid "Lorem ipsum is dummy text"
+msgstr "Lorem存有虚拟文本"
+
+#: inc/customizer.php:323
+msgid "Select Category to display Services"
+msgstr "选择类别以显示服务"
+
+#: inc/customizer.php:324
+msgid "Image Size (50 x 50)"
+msgstr "图像尺寸（50 x 50）"
+
+#: inc/customizer.php:333
+msgid "Select About Page"
+msgstr "选择关于页面"
+
+#: inc/customizer.php:334
+msgid "Image Size (280 x 280)"
+msgstr "图像尺寸（280 x 280）"
+
+#: inc/customizer.php:347
+msgid "Services Excerpt length"
+msgstr "服务摘录长度"
+
+#: inc/customizer.php:360
+msgid "Blog Post Settings"
+msgstr "博客帖子设置"
+
+#: inc/customizer.php:370
+msgid "Post Date"
+msgstr "发布日期"
+
+#: inc/customizer.php:380
+msgid "Author"
+msgstr "作者"
+
+#: inc/customizer.php:390
+msgid "Comments"
+msgstr "评论"
+
+#: inc/customizer.php:402
+msgid "Excerpt length"
+msgstr "摘录长度"
+
+#: inc/customizer.php:420
+msgid "Blog Layouts"
+msgstr "博客布局"
+
+#: inc/customizer.php:430
+msgid "Customize Home Page Settings"
+msgstr "自定义主页设置"
+
+#: inc/customizer.php:443
+msgid ""
+"First select static page in homepage setting for front page.Below given edit "
+"button is to customize Home Page. Just click on the edit option, add "
+"whatever elements you want to include in the homepage, save the changes and "
+"you are good to go."
+msgstr ""
+"首先在首页的主页设置中选择静态页面。下面的编辑按钮是自定义主页。 只需单击编辑"
+"选项，添加要包含在主页中的任何元素，保存更改即可。"
+
+#: inc/customizer.php:447
+#: template-parts/image-layout.php:33
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/customizer.php:452
+msgid "Footer Settings"
+msgstr "页脚设置"
+
+#: inc/customizer.php:461
+msgid "Copyright Text"
+msgstr "版权文本"
+
+#: inc/customizer.php:463
+msgid "Copyright 2019, ....."
+msgstr "版权所有2019，....."
+
+#: inc/customizer.php:475
+msgid "Show / Hide Scroll To Top"
+msgstr "显示/隐藏滚动到顶部"
+
+#: inc/customizer.php:480
+msgid "Right"
+msgstr "对"
+
+#: inc/customizer.php:485
+msgid "Scroll To Top"
+msgstr "滚动到顶部"
+
+#: inc/customizer.php:570
+msgid "SIRAT PRO"
+msgstr "SIRAT PRO"
+
+#: inc/customizer.php:571
+msgid "UPGRADE PRO"
+msgstr "升级专业版"
+
+#: inc/logo/logo-resizer.php:19
+msgid "Logo Size"
+msgstr "徽标大小"
+
+#: inc/social-widgets/social-icon.php:12
+msgid "Social Icon"
+msgstr "社会图标"
+
+#: inc/social-widgets/social-icon.php:14
+msgid "Widget for Social icons section"
+msgstr "社交图标部分的小部件"
+
+#: inc/social-widgets/social-icon.php:36
+msgid "Facebook"
+msgstr "Facebook的"
+
+#: inc/social-widgets/social-icon.php:37
+msgid "Twitter"
+msgstr "推特"
+
+#: inc/social-widgets/social-icon.php:38
+msgid "Google"
+msgstr "谷歌"
+
+#: inc/social-widgets/social-icon.php:39
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/social-widgets/social-icon.php:40
+msgid "Pinterest"
+msgstr "Pinterest的"
+
+#: inc/social-widgets/social-icon.php:41
+msgid "Tumblr"
+msgstr "tumblr"
+
+#: inc/social-widgets/social-icon.php:42
+msgid "Instagram"
+msgstr "Instagram的"
+
+#: inc/social-widgets/social-icon.php:43
+msgid "Youtube"
+msgstr "的Youtube"
+
+#: inc/social-widgets/social-icon.php:67
+msgid "Title:"
+msgstr "标题："
+
+#: inc/social-widgets/social-icon.php:71
+msgid "Facebook:"
+msgstr "Facebook的："
+
+#: inc/social-widgets/social-icon.php:75
+msgid "Twitter:"
+msgstr "推特："
+
+#: inc/social-widgets/social-icon.php:79
+msgid "Google+:"
+msgstr "Google+的方式："
+
+#: inc/social-widgets/social-icon.php:83
+msgid "Linkedin:"
+msgstr "LinkedIn："
+
+#: inc/social-widgets/social-icon.php:87
+msgid "Instagram:"
+msgstr "Instagram的："
+
+#: inc/social-widgets/social-icon.php:91
+msgid "Pinterest:"
+msgstr "Pinterest的："
+
+#: inc/social-widgets/social-icon.php:95
+msgid "Tumblr:"
+msgstr "tumblr："
+
+#: inc/social-widgets/social-icon.php:99
+msgid "Youtube:"
+msgstr "的Youtube："
+
+#: inc/typography/ctypo.php:27
+msgid "Theme Typography"
+msgstr "主题排版"
+
+#: inc/typography/ctypo.php:31
+msgid "Content Typography"
+msgstr "内容排版"
+
+#: inc/typography/ctypo.php:36
+msgid "Headings Typography"
+msgstr "标题排版"
+
+#: inc/typography/ctypo.php:41
+msgid "Global Typography"
+msgstr "全球排版"
+
+#: inc/typography/ctypo.php:49
+msgid "It will change the complete theme color in one click."
+msgstr "它只需点击一下即可更改完整的主题颜色。"
+
+#: inc/typography/ctypo.php:137
+msgid "Paragraph Color"
+msgstr "段落颜色"
+
+#: inc/typography/ctypo.php:138
+#: inc/typography/ctypo.php:144
+msgid "Select how you want your paragraphs to appear."
+msgstr "选择您希望段落的显示方式。"
+
+#: inc/typography/ctypo.php:143
+msgid "Paragraph Typography"
+msgstr "段落排版"
+
+#: inc/typography/ctypo.php:164
+msgid "Anchor Tag Color"
+msgstr "锚标签颜色"
+
+#: inc/typography/ctypo.php:165
+#: inc/typography/ctypo.php:171
+msgid "Select how you want your a tag to appear."
+msgstr "选择标签的显示方式。"
+
+#: inc/typography/ctypo.php:170
+msgid "Anchor Tag Typography"
+msgstr "锚标记排版"
+
+#: inc/typography/ctypo.php:191
+msgid "Heading 1 Color"
+msgstr "标题1颜色"
+
+#: inc/typography/ctypo.php:192
+#: inc/typography/ctypo.php:198
+msgid "Select how heading 1 should appear."
+msgstr "选择标题1的显示方式。"
+
+#: inc/typography/ctypo.php:197
+msgid "Heading 1"
+msgstr "标题1"
+
+#: inc/typography/ctypo.php:218
+msgid "Heading 2 Color"
+msgstr "标题2颜色"
+
+#: inc/typography/ctypo.php:219
+#: inc/typography/ctypo.php:225
+msgid "Select how heading 2 should appear."
+msgstr "选择标题2应该如何显示。"
+
+#: inc/typography/ctypo.php:224
+msgid "Heading 2"
+msgstr "标题2"
+
+#: inc/typography/ctypo.php:245
+msgid "Heading 3 Color"
+msgstr "标题3颜色"
+
+#: inc/typography/ctypo.php:246
+#: inc/typography/ctypo.php:252
+msgid "Select how heading 3 should appear."
+msgstr "选择标题3应该如何显示。"
+
+#: inc/typography/ctypo.php:251
+msgid "Heading 3"
+msgstr "标题3"
+
+#: inc/typography/ctypo.php:272
+msgid "Heading 4 Color"
+msgstr "标题4颜色"
+
+#: inc/typography/ctypo.php:273
+#: inc/typography/ctypo.php:279
+msgid "Select how heading 4 should appear."
+msgstr "选择标题4应该如何显示。"
+
+#: inc/typography/ctypo.php:278
+msgid "Heading 4"
+msgstr "标题4"
+
+#: inc/typography/ctypo.php:299
+msgid "Heading 5 Color"
+msgstr "标题5颜色"
+
+#: inc/typography/ctypo.php:300
+#: inc/typography/ctypo.php:306
+msgid "Select how heading 5 should appear."
+msgstr "选择标题5应该如何显示。"
+
+#: inc/typography/ctypo.php:305
+msgid "Heading 5"
+msgstr "标题5"
+
+#: inc/typography/ctypo.php:326
+msgid "Heading 6 Color"
+msgstr "标题6颜色"
+
+#: inc/typography/ctypo.php:327
+#: inc/typography/ctypo.php:333
+msgid "Select how heading 6 should appear."
+msgstr "选择标题6应该如何显示。"
+
+#: inc/typography/ctypo.php:332
+msgid "Heading 6"
+msgstr "标题6"
+
+#: inc/typography/customize/control-typography.php:48
+msgid "Font Color"
+msgstr "字体颜色"
+
+#: inc/typography/customize/control-typography.php:49
+msgid "Font Family"
+msgstr "字体系列"
+
+#: inc/typography/customize/control-typography.php:50
+msgid "Font Size"
+msgstr "字体大小"
+
+#: inc/typography/customize/control-typography.php:51
+msgid "Font Weight"
+msgstr "字体重量"
+
+#: inc/typography/customize/control-typography.php:52
+msgid "Font Style"
+msgstr "字体样式"
+
+#: inc/typography/customize/control-typography.php:53
+msgid "Line Height"
+msgstr "线高"
+
+#: inc/typography/customize/control-typography.php:54
+msgid "Letter Spacing"
+msgstr "字母间距"
+
+#: inc/typography/customize/control-typography.php:243
+msgid "No Fonts"
+msgstr "没有字体"
+
+#: inc/typography/customize/control-typography.php:244
+msgid "Abril Fatface"
+msgstr "四月胖脸"
+
+#: inc/typography/customize/control-typography.php:245
+msgid "Acme"
+msgstr "顶点"
+
+#: inc/typography/customize/control-typography.php:246
+msgid "Anton"
+msgstr "安东"
+
+#: inc/typography/customize/control-typography.php:247
+msgid "Architects Daughter"
+msgstr "建筑师的女儿"
+
+#: inc/typography/customize/control-typography.php:248
+msgid "Arimo"
+msgstr "问题"
+
+#: inc/typography/customize/control-typography.php:249
+msgid "Arsenal"
+msgstr "兵工厂"
+
+#: inc/typography/customize/control-typography.php:250
+msgid "Arvo"
+msgstr "值"
+
+#: inc/typography/customize/control-typography.php:251
+msgid "Alegreya"
+msgstr "Alegreya"
+
+#: inc/typography/customize/control-typography.php:252
+msgid "Alfa Slab One"
+msgstr "Alfa Slab One"
+
+#: inc/typography/customize/control-typography.php:253
+msgid "Averia Serif Libre"
+msgstr "Serif Libre崩溃"
+
+#: inc/typography/customize/control-typography.php:254
+msgid "Bangers"
+msgstr "爆竹"
+
+#: inc/typography/customize/control-typography.php:255
+msgid "Boogaloo"
+msgstr "布加洛舞"
+
+#: inc/typography/customize/control-typography.php:256
+msgid "Bad Script"
+msgstr "糟糕的脚本"
+
+#: inc/typography/customize/control-typography.php:257
+msgid "Bitter"
+msgstr "苦"
+
+#: inc/typography/customize/control-typography.php:258
+msgid "Bree Serif"
+msgstr "Bree Serif"
+
+#: inc/typography/customize/control-typography.php:259
+msgid "BenchNine"
+msgstr "Penneknn"
+
+#: inc/typography/customize/control-typography.php:260
+msgid "Cabin"
+msgstr "舱"
+
+#: inc/typography/customize/control-typography.php:261
+msgid "Cardo"
+msgstr "卡尔"
+
+#: inc/typography/customize/control-typography.php:262
+msgid "Courgette"
+msgstr "西葫芦"
+
+#: inc/typography/customize/control-typography.php:263
+msgid "Cherry Swash"
+msgstr "樱桃泼水"
+
+#: inc/typography/customize/control-typography.php:264
+msgid "Cormorant Garamond"
+msgstr "鸬鹚加拉蒙德"
+
+#: inc/typography/customize/control-typography.php:265
+msgid "Crimson Text"
+msgstr "深红文字"
+
+#: inc/typography/customize/control-typography.php:266
+msgid "Cuprum"
+msgstr "Cuprum"
+
+#: inc/typography/customize/control-typography.php:267
+msgid "Cookie"
+msgstr "曲奇饼"
+
+#: inc/typography/customize/control-typography.php:268
+msgid "Chewy"
+msgstr "劲道"
+
+#: inc/typography/customize/control-typography.php:269
+msgid "Days One"
+msgstr "第一天"
+
+#: inc/typography/customize/control-typography.php:270
+msgid "Dosis"
+msgstr "剂量"
+
+#: inc/typography/customize/control-typography.php:271
+msgid "Droid Sans"
+msgstr "Droid Sans"
+
+#: inc/typography/customize/control-typography.php:272
+msgid "Economica"
+msgstr "经济"
+
+#: inc/typography/customize/control-typography.php:273
+msgid "Fredoka One"
+msgstr "弗雷多卡一号"
+
+#: inc/typography/customize/control-typography.php:274
+msgid "Fjalla One"
+msgstr "考虑一个"
+
+#: inc/typography/customize/control-typography.php:275
+msgid "Francois One"
+msgstr "弗朗索瓦一世"
+
+#: inc/typography/customize/control-typography.php:276
+msgid "Frank Ruhl Libre"
+msgstr "Frank Ruhl Libre"
+
+#: inc/typography/customize/control-typography.php:277
+msgid "Gloria Hallelujah"
+msgstr "Gloria Hallelujah"
+
+#: inc/typography/customize/control-typography.php:278
+msgid "Great Vibes"
+msgstr "伟大的共鸣"
+
+#: inc/typography/customize/control-typography.php:279
+msgid "Handlee"
+msgstr "Handlee"
+
+#: inc/typography/customize/control-typography.php:280
+msgid "Hammersmith One"
+msgstr "哈默史密斯一世"
+
+#: inc/typography/customize/control-typography.php:281
+msgid "Inconsolata"
+msgstr "Inconsolata"
+
+#: inc/typography/customize/control-typography.php:282
+msgid "Indie Flower"
+msgstr "独立花"
+
+#: inc/typography/customize/control-typography.php:283
+msgid "IM Fell English SC"
+msgstr "IM Fell English SC"
+
+#: inc/typography/customize/control-typography.php:284
+msgid "Julius Sans One"
+msgstr "Julius Sans One"
+
+#: inc/typography/customize/control-typography.php:285
+msgid "Josefin Slab"
+msgstr "Josefin Slab"
+
+#: inc/typography/customize/control-typography.php:286
+msgid "Josefin Sans"
+msgstr "Josefin Sans"
+
+#: inc/typography/customize/control-typography.php:287
+msgid "Kanit"
+msgstr "Kanit"
+
+#: inc/typography/customize/control-typography.php:288
+msgid "Lobster"
+msgstr "龙虾"
+
+#: inc/typography/customize/control-typography.php:289
+msgid "Lato"
+msgstr "侧"
+
+#: inc/typography/customize/control-typography.php:290
+msgid "Lora"
+msgstr "洛拉"
+
+#: inc/typography/customize/control-typography.php:291
+msgid "Libre Baskerville"
+msgstr "免费巴斯克维尔"
+
+#: inc/typography/customize/control-typography.php:292
+msgid "Lobster Two"
+msgstr "龙虾二"
+
+#: inc/typography/customize/control-typography.php:293
+msgid "Merriweather"
+msgstr "Merriweather"
+
+#: inc/typography/customize/control-typography.php:294
+msgid "Monda"
+msgstr "世界"
+
+#: inc/typography/customize/control-typography.php:295
+msgid "Montserrat"
+msgstr "蒙特塞拉特"
+
+#: inc/typography/customize/control-typography.php:296
+msgid "Muli"
+msgstr "再次"
+
+#: inc/typography/customize/control-typography.php:297
+msgid "Marck Script"
+msgstr "马克脚本"
+
+#: inc/typography/customize/control-typography.php:298
+msgid "Noto Serif"
+msgstr "诺托塞里夫"
+
+#: inc/typography/customize/control-typography.php:299
+msgid "Open Sans"
+msgstr "打开Sans"
+
+#: inc/typography/customize/control-typography.php:300
+msgid "Overpass"
+msgstr "立交桥"
+
+#: inc/typography/customize/control-typography.php:301
+msgid "Overpass Mono"
+msgstr "立交桥单声道"
+
+#: inc/typography/customize/control-typography.php:302
+msgid "Oxygen"
+msgstr "氧"
+
+#: inc/typography/customize/control-typography.php:303
+msgid "Orbitron"
+msgstr "Orbitron"
+
+#: inc/typography/customize/control-typography.php:304
+msgid "Patua One"
+msgstr "打一个"
+
+#: inc/typography/customize/control-typography.php:305
+msgid "Pacifico"
+msgstr "太平洋"
+
+#: inc/typography/customize/control-typography.php:306
+msgid "Padauk"
+msgstr "紫檀"
+
+#: inc/typography/customize/control-typography.php:307
+msgid "Playball"
+msgstr "打球"
+
+#: inc/typography/customize/control-typography.php:308
+msgid "Playfair Display"
+msgstr "Playfair显示"
+
+#: inc/typography/customize/control-typography.php:309
+msgid "PT Sans"
+msgstr "PT Sans"
+
+#: inc/typography/customize/control-typography.php:310
+msgid "Philosopher"
+msgstr "哲学家"
+
+#: inc/typography/customize/control-typography.php:311
+msgid "Permanent Marker"
+msgstr "永久标记"
+
+#: inc/typography/customize/control-typography.php:312
+msgid "Poiret One"
+msgstr "Poiret One"
+
+#: inc/typography/customize/control-typography.php:313
+msgid "Quicksand"
+msgstr "流沙"
+
+#: inc/typography/customize/control-typography.php:314
+msgid "Quattrocento Sans"
+msgstr "Quattrocento Sans"
+
+#: inc/typography/customize/control-typography.php:315
+msgid "Raleway"
+msgstr "Raleway"
+
+#: inc/typography/customize/control-typography.php:316
+msgid "Rubik"
+msgstr "魔方"
+
+#: inc/typography/customize/control-typography.php:317
+msgid "Rokkitt"
+msgstr "Rokkitt"
+
+#: inc/typography/customize/control-typography.php:318
+msgid "Russo One"
+msgstr "Russo One"
+
+#: inc/typography/customize/control-typography.php:319
+msgid "Righteous"
+msgstr "正义"
+
+#: inc/typography/customize/control-typography.php:320
+msgid "Slabo"
+msgstr "坏"
+
+#: inc/typography/customize/control-typography.php:321
+msgid "Source Sans Pro"
+msgstr "来源没有专业"
+
+#: inc/typography/customize/control-typography.php:322
+msgid "Shadows Into Light Two"
+msgstr "阴影成光二"
+
+#: inc/typography/customize/control-typography.php:323
+msgid "Shadows Into Light"
+msgstr "阴影变成光明"
+
+#: inc/typography/customize/control-typography.php:324
+msgid "Sacramento"
+msgstr "萨克拉门托"
+
+#: inc/typography/customize/control-typography.php:325
+msgid "Shrikhand"
+msgstr "Shrikhand"
+
+#: inc/typography/customize/control-typography.php:326
+msgid "Tangerine"
+msgstr "柑橘"
+
+#: inc/typography/customize/control-typography.php:327
+msgid "Ubuntu"
+msgstr "Ubuntu的"
+
+#: inc/typography/customize/control-typography.php:328
+msgid "VT323"
+msgstr "Vtaaa"
+
+#: inc/typography/customize/control-typography.php:329
+msgid "Varela Round"
+msgstr "瓦雷拉回合"
+
+#: inc/typography/customize/control-typography.php:330
+msgid "Vampiro One"
+msgstr "Vampiro One"
+
+#: inc/typography/customize/control-typography.php:331
+msgid "Vollkorn"
+msgstr "全麦"
+
+#: inc/typography/customize/control-typography.php:332
+msgid "Volkhov"
+msgstr "沃尔霍夫"
+
+#: inc/typography/customize/control-typography.php:333
+msgid "Yanone Kaffeesatz"
+msgstr "Yanone咖啡渣"
+
+#: inc/typography/customize/control-typography.php:347
+msgid "No Fonts weight"
+msgstr "没有字体重量"
+
+#: inc/typography/customize/control-typography.php:348
+msgid "Thin"
+msgstr "瘦"
+
+#: inc/typography/customize/control-typography.php:349
+msgid "Light"
+msgstr "光"
+
+#: inc/typography/customize/control-typography.php:350
+#: inc/typography/customize/control-typography.php:368
+msgid "Normal"
+msgstr "正常"
+
+#: inc/typography/customize/control-typography.php:351
+msgid "Medium"
+msgstr "介质"
+
+#: inc/typography/customize/control-typography.php:352
+msgid "Bold"
+msgstr "胆大"
+
+#: inc/typography/customize/control-typography.php:353
+msgid "Ultra Bold"
+msgstr "超大胆"
+
+#: inc/typography/customize/control-typography.php:367
+msgid "No Fonts Style"
+msgstr "没有字体样式"
+
+#: inc/typography/customize/control-typography.php:369
+msgid "Italic"
+msgstr "斜体"
+
+#: inc/typography/customize/control-typography.php:370
+msgid "Oblique"
+msgstr "斜"
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "什么都没找到"
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here."
+msgstr "准备发布你的第一篇文章？ 从这里开始吧。"
+
+#: no-results.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有任何内容符合您的搜索字词。 请使用一些不同的关键字再试一次。"
+
+#: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "不要担心，并且它会发生在我们最好的人身上。"
+
+#: no-results.php:19
+msgid "Back to Home Page"
+msgstr "回到主页"
+
+#: page-template/custom-home-page.php:40
+#: page-template/custom-home-page.php:131
+#: template-parts/content-audio.php:57
+#: template-parts/content-gallery.php:45
+#: template-parts/content-image.php:42
+#: template-parts/content-image.php:67
+#: template-parts/content-image.php:91
+#: template-parts/content-video.php:56
+#: template-parts/content.php:42
+#: template-parts/content.php:67
+#: template-parts/content.php:91
+#: template-parts/grid-layout.php:26
+msgid "READ MORE"
+msgstr "阅读更多"
+
+#: page-template/custom-home-page.php:55
+#: template-parts/single-post-layout.php:54
+msgid "Previous"
+msgstr "以前"
+
+#: page-template/custom-home-page.php:59
+#: template-parts/single-post-layout.php:51
+msgid "Next"
+msgstr "下一个"
+
+#: search.php:13
+#, php-format
+msgid "Results For: %s"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search"
+msgstr "搜索"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "搜索"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "档案"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "元"
+
+#: template-parts/content-audio.php:52
+#: template-parts/content-gallery.php:40
+#: template-parts/content-image.php:37
+#: template-parts/content-image.php:62
+#: template-parts/content-image.php:86
+#: template-parts/content-video.php:51
+#: template-parts/content.php:37
+#: template-parts/content.php:62
+#: template-parts/content.php:86
+#: template-parts/single-post-layout.php:24
+msgid "0 Comment"
+msgstr "0评论"
+
+#: template-parts/content-audio.php:52
+#: template-parts/content-gallery.php:40
+#: template-parts/content-image.php:37
+#: template-parts/content-image.php:62
+#: template-parts/content-image.php:86
+#: template-parts/content-video.php:51
+#: template-parts/content.php:37
+#: template-parts/content.php:62
+#: template-parts/content.php:86
+#: template-parts/single-post-layout.php:24
+msgid "0 Comments"
+msgstr "0评论"
+
+#: template-parts/content-audio.php:52
+#: template-parts/content-gallery.php:40
+#: template-parts/content-image.php:37
+#: template-parts/content-image.php:62
+#: template-parts/content-image.php:86
+#: template-parts/content-video.php:51
+#: template-parts/content.php:37
+#: template-parts/content.php:62
+#: template-parts/content.php:86
+#: template-parts/single-post-layout.php:24
+msgid "% Comments"
+msgstr "％ 评论"
+
+#: template-parts/image-layout.php:28
+msgid "Pages:"
+msgstr "页数："
+
+#: template-parts/single-post-layout.php:46
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class =“meta-nav”>发布于</ span> <span class =“post-title”>％title </ "
+"span>"
+
+#: template-parts/single-post-layout.php:52
+msgid "Next post:"
+msgstr "下一篇文章："
+
+#: template-parts/single-post-layout.php:55
+msgid "Previous post:"
+msgstr "上一篇文章："
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "您必须登录才能结帐。"
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "你的订单"
